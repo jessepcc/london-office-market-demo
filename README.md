@@ -2,7 +2,7 @@
 
 A Python research agent for exploring London office market evidence. Ask a question, collect public sources on demand, prepare a dated landlord briefing, and inspect the sources behind its claims and charts.
 
-[Project presentation](https://jessepcc.github.io/london-office-market-demo/) · [Run the interactive demo locally](#run-locally)
+[Project presentation](https://jessepcc.github.io/london-office-market-demo/) · [Try the interactive demo](https://london-office-market-demo.streamlit.app/)
 
 ## Try it
 

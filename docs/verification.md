@@ -14,7 +14,7 @@ Checks executed on 16 October 2026. Synthetic checks establish application behav
 | Mobile landing page | NOT RUN | The available browser's viewport override did not change its measured width. Responsive CSS is present; a mobile capture is not claimed. |
 | Public snapshot content and secret scan | PASS scoped | Reviewed source allowlist and new root history. Pattern scan found no provider/GitHub token signatures, private deployment identifiers or original private project paths. This is not an exhaustive security audit. |
 | GitHub Pages publication | PASS | Public repository and Pages workflow created. The publication workflow completed successfully; page, CSS, JavaScript, posters and MP4 assets returned HTTP 200. |
-| Free interactive hosting | BLOCKED | Streamlit sign-in succeeded. Deployment awaits the GitHub repository permission authorization step. |
+| Free interactive hosting | PASS scoped | app.py deployed from public main on Streamlit Community Cloud with no shared secrets. The public URL returned HTTP 200 without cookies and the rendered app opened in synthetic mode without a passcode. A synthetic chat was submitted through the hosted app. Live paid research remains untested. |
 | Live paid research after conversion | NOT RUN | No paid provider calls used for migration checks. |
 
 The public suite retains reusable application and source-fixture checks. It excludes old passcode/scheduler checks, checks for private developer scripts, and 67 test functions replaying omitted private working artifacts. Manual overlap and interruption-recovery behavior is retained in tests/test_jobs.py.
