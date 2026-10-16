@@ -1,0 +1,2473 @@
+{
+  "draft_id": "semantic_a17cad824593779c5602afb8",
+  "instruction_version": "report-semantics-v1",
+  "candidate": {
+    "chart_ids": [
+      "chart_db705b3d120f6ff3f01cbc3f",
+      "chart_ca7b93ce63148f4435c69174"
+    ],
+    "claims": [
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_40222d1417221f4db3a8a41f"
+        ],
+        "headline": "Reported Central London availability down 20% year on year",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Semafor reported on 9 October 2026 that Canary Wharf Group's latest earnings showed availability in Central London fell 20% year on year, while supply in Docklands stayed broadly steady. No reference period or measurement definition is given.",
+        "topic_tags": [
+          "availability",
+          "news"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_4e714ef04cf09333ecf8c430",
+          "ev_8ae808a5722e3b12e889611e"
+        ],
+        "headline": "Canary Wharf Group reports record rents and 92%+ occupancy",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "The same 9 October 2026 report states Canary Wharf Group is reporting the highest rental rates in its history and that office occupancy there now exceeds 92%. These are company-scope figures, not a Central London market rent or occupancy measure.",
+        "topic_tags": [
+          "rents",
+          "news"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_995039a591db859aeb7f016d"
+        ],
+        "headline": "Large Canary Wharf occupier commitments reported",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Semafor reported on 9 October 2026 that Visa recently leased 300,000 sq ft, Barclays bought its headquarters for £750 million, and Citi is investing more than $1 billion in its European HQ; JPMorgan has proposed a £3 billion, 265-metre tower subject to approval.",
+        "topic_tags": [
+          "news",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_9ae5896f40ba510102acc52c"
+        ],
+        "headline": "Canary Wharf refurbishment marketed to defence and AI occupiers",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Reuters-sourced reporting published 5 October 2026 says developer LS Estates is sounding out defence and AI companies for a refurbished nine-floor Canary Wharf office formerly occupied by Credit Suisse support staff. This is marketing interest, not a signed letting.",
+        "topic_tags": [
+          "refurbishment",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_d57c15b00b33dea264335b1c"
+        ],
+        "headline": "Life-science lab demand at 17 Columbus Courtyard below expectations",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "The same 5 October 2026 report says the £100 million-plus refit of 17 Columbus Courtyard, backed by GIC and Oaktree, had earmarked up to 60% of space for laboratories but life-sciences interest was lower than expected in the short term.",
+        "topic_tags": [
+          "refurbishment",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_58dbc317cdf81e3083024e49"
+        ],
+        "headline": "Lambeth HQ refurbishment planning permission granted",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "London Fire Brigade announced on 6 October 2026 that it received planning permission from Lambeth Council to refurbish its historic Albert Embankment headquarters to provide a fire station, office space and community spaces. Permission is not completed refurbishment or occupation.",
+        "topic_tags": [
+          "refurbishment",
+          "news"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_36ba0129a80324efa373abe4"
+        ],
+        "headline": "Knight Frank: development lagging occupier demand",
+        "interpretation_role": "source_view",
+        "kind": "interpretation",
+        "signal": null,
+        "text": "Knight Frank commentary published 7 October 2026 argues London office development activity is not keeping pace with occupier demand for the type of space now required, attributing this partly to viability pressures and partly to macroeconomic caution weighing on investors.",
+        "topic_tags": [
+          "supply",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_2aec5a858eada28399665c30",
+          "ev_b0ed77551ac698c8584db80c"
+        ],
+        "headline": "Landlord view: majority of occupiers expanding footprint",
+        "interpretation_role": "source_view",
+        "kind": "interpretation",
+        "signal": null,
+        "text": "Canary Wharf Group's chief executive told Semafor (9 October 2026) that roughly 60% of its office occupiers grew footprint over the last 18 months, 20% were flat and 20% shrank, and that tenants increasingly agree they need the best space to compete for talent.",
+        "topic_tags": [
+          "demand",
+          "hybrid-work"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_40222d1417221f4db3a8a41f"
+        ],
+        "headline": "Source forecast: London supply shortage to worsen next year",
+        "interpretation_role": null,
+        "kind": "forecast",
+        "signal": null,
+        "text": "The same 9 October 2026 report attributes to Canary Wharf Group's chief executive a forecast that the shortage of supply elsewhere in London will worsen next year, which he links to UK regulations raising construction costs and deterring new development.",
+        "topic_tags": [
+          "supply",
+          "regulations"
+        ]
+      },
+      {
+        "chart_ids": [
+          "chart_ca7b93ce63148f4435c69174"
+        ],
+        "evidence_ids": [
+          "ev_ffaf77ab8dba5b41acc22bd3"
+        ],
+        "headline": "Central London Q2 2026 take-up 2.4m sq ft",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported Central London take-up of 2.4 million sq ft across 192 transactions in Q2 2026 (reference period 1 April to 30 June 2026), published 6 August 2026.",
+        "topic_tags": [
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [
+          "chart_ca7b93ce63148f4435c69174"
+        ],
+        "evidence_ids": [
+          "ev_ffaf77ab8dba5b41acc22bd3",
+          "ev_d2b19d536cbb1045114dd164"
+        ],
+        "headline": "Central London take-up up 0.2m sq ft quarter on quarter",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Deterministic comparison of Savills Central London take-up shows Q2 2026 at 2.4 million sq ft versus 2.2 million sq ft in Q1 2026, a rise of 0.2 million sq ft (9.1%). This is a quarterly change, not a weekly movement.",
+        "topic_tags": [
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_8518d4b48c28b91c55b2355c",
+          "ev_e2fa5e512f4d4045b74728ad"
+        ],
+        "headline": "Central London vacancy 7.2%, City unchanged at 7.0%",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported the Central London vacancy rate declined 20 basis points to 7.2% in Q2 2026, and the City vacancy rate remained unchanged at 7.0%. Savills vacancy is not availability.",
+        "topic_tags": [
+          "vacancy"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_8518d4b48c28b91c55b2355c",
+          "ev_79d1689bc47f6fe281da51db"
+        ],
+        "headline": "Central London vacancy down 0.2pp quarter on quarter",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Deterministic comparison of Savills Central London vacancy shows 7.2% in Q2 2026 versus 7.4% in Q1 2026, a fall of 0.2 percentage points (2.7% relative). Quarterly, not weekly.",
+        "topic_tags": [
+          "vacancy"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_b14d903ddf16593631d59452",
+          "ev_9eac9e5e138886c912a5490b"
+        ],
+        "headline": "Reported Central London supply down 0.4m sq ft in Q2",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported Central London office supply of 18.7 million sq ft at end-Q2 2026 versus 19.1 million sq ft at end-Q1 2026, a deterministic fall of 0.4 million sq ft (2.1%). Reported supply is not a vacancy rate.",
+        "topic_tags": [
+          "availability",
+          "supply"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_b749ec4680e599ea936fc3d4",
+          "ev_47d052c2a5c0b1dba7e83cdb"
+        ],
+        "headline": "West End H1 prime £175.10; City year-to-May £135",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported West End average prime rent of £175.10 per sq ft for H1 2026 (January to June), up 2.3% on H1 2025, and City average achieved prime rent of £135 per sq ft for the year to May 2026. Different averaging windows are not comparable.",
+        "topic_tags": [
+          "rents"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_8a3a5825e1936625cd198ff8",
+          "ev_a3ee0221b7c9d70e1c385e84"
+        ],
+        "headline": "H1 Grade A: West End £106.17 vs City £76.21",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported H1 2026 average Grade A rents of £76.21 per sq ft in the City (up 7% on H1 2025) and £106.17 per sq ft in the West End. Deterministic comparison shows the West End level £29.96 per sq ft (39.3%) above the City on the same H1 period.",
+        "topic_tags": [
+          "rents"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_9eaecb18fdc3bc25aafaca7c"
+        ],
+        "headline": "H1 2026 development starts 1.5m sq ft, one new-build",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported development starts fell sharply in H1 2026 to just 1.5 million sq ft, with only one new-build scheme breaking ground (Delta at Paddington, 234,000 sq ft, delivered by TfL and Helical) and the remaining 14 starts being refurbishments.",
+        "topic_tags": [
+          "supply",
+          "refurbishment"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_fe4444d5a0f4ba3b18b53f16"
+        ],
+        "headline": "Savills forecast: 22m sq ft completions by 2029",
+        "interpretation_role": null,
+        "kind": "forecast",
+        "signal": null,
+        "text": "Savills forecasts Central London development completions reaching 22 million sq ft by end-2029 across 148 schemes with a realistic prospect of delivery. Projected completions are not current availability.",
+        "topic_tags": [
+          "supply"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_8c61432f7e708478bde481fe"
+        ],
+        "headline": "1 Appold Street pre-let 268,000 sq ft at £104 per sq ft",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported the largest pre-let and transaction to complete was Herbert Smith Freehills Kramer's acquisition of British Land and GIC's 1 Appold Street, EC2 (268,000 sq ft) at £104 per sq ft for a 21-year term, published 1 May 2026.",
+        "topic_tags": [
+          "prelets",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "evidence_ids": [
+          "ev_3427a0eabe22547062c1bded",
+          "ev_7e0c85711b552d9514f8c601"
+        ],
+        "headline": "City Fringe vacancy 8.2% at end-2025",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported City Fringe vacancy of 8.2% at end-Q4 2025 versus 8.3% at end-Q3 2025. City Fringe is not Midtown, and Midtown itself remains unmeasured in reviewed evidence.",
+        "topic_tags": [
+          "vacancy"
+        ]
+      },
+      {
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "evidence_ids": [
+          "ev_6a39c03dea8ba05c89ac50c1",
+          "ev_f02840f263ab24f6f1e19864"
+        ],
+        "headline": "Hammersmith 26% and VNEB 18% vacancy in Q4 2025",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported Q4 2025 vacancy of 26% in Hammersmith and 18% in VNEB, described as West End Fringe sub-markets. These are selected wider-London districts, not a wider-London average.",
+        "topic_tags": [
+          "vacancy"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_9053a8872107aa28795a6455"
+        ],
+        "headline": "Bank Rate maintained at 3.75%",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "The Bank of England Monetary Policy Committee voted by a majority of 6-3 at its meeting ending 16 September 2026 to maintain Bank Rate at 3.75%. This is a UK-wide policy rate, not a London office financing cost.",
+        "topic_tags": [
+          "macro"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_6aebe2c2306bb7666ba1c728"
+        ],
+        "headline": "London resident labour rates, May-July 2026",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "ONS regional labour data published 15 September 2026 report London resident rates for May to July 2026: employment 73.9% and inactivity 20.5% for residents aged 16 to 64, and unemployment 6.8% for economically active residents aged 16 and over. Residence-based, not office employment.",
+        "topic_tags": [
+          "employment"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_c59cf89eb5463c5b11d3eca2"
+        ],
+        "headline": "London real GVA grew 0.3% in 2023",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "GLA analysis reports the most recent ONS release showed London real GVA grew by only 0.3% in 2023, compared with 0.4% for the UK as a whole. This is a historical observed release, not a current growth measurement.",
+        "topic_tags": [
+          "macro"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_7c40319557e47a4028eac940",
+          "ev_3cbd21d0bf112aefc6523a09"
+        ],
+        "headline": "Grade A 78% of Q1 take-up; Grade B 73% of supply",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "BNP Paribas Real Estate reported Grade A space accounted for 78.0% of all Central London take-up in Q1 2026, and that Grade B was 73% of Central London office supply at Q1 end. These are shares of take-up and supply, not of stock.",
+        "topic_tags": [
+          "demand",
+          "availability"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_d4a6f3dd7b0ca6ca82597068"
+        ],
+        "headline": "BREEAM-rated buildings show 49% West End, 39% City rent premium",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Savills reported that in H1 2026 average rents in BREEAM 'Excellent' or 'Outstanding' buildings were 49% higher than in non-rated buildings in the West End and 39% higher in the City. A static premium does not establish a widening gap or a causal amenity effect.",
+        "topic_tags": [
+          "ESG",
+          "rents"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_79c8f2bf9659334eac83e5d3",
+          "ev_791d0bb412f7b74dd5d75466"
+        ],
+        "headline": "Deutsche Bank to take YY London space from early 2028",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "Deutsche Bank announced it will take space at YY London, Canary Wharf, from early 2028; the building is described as fully electric and targeting net-zero-in-operation. This is an announced future plan, not observed 2026 occupation or verified net-zero achievement.",
+        "topic_tags": [
+          "ESG",
+          "news"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_06f66bd7d9438ec433f5c60f"
+        ],
+        "headline": "28% of GB workers hybrid in early 2025",
+        "interpretation_role": null,
+        "kind": "fact",
+        "signal": null,
+        "text": "ONS reported that 28% of workers in Great Britain were hybrid workers between 8 January and 30 March 2025. This is Great Britain survey context, not a London office attendance measure, and it is stale relative to the briefing date.",
+        "topic_tags": [
+          "hybrid-work"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_40222d1417221f4db3a8a41f",
+          "ev_9eaecb18fdc3bc25aafaca7c"
+        ],
+        "headline": "Tightening competing supply supports well-specified space",
+        "interpretation_role": "landlord_analysis",
+        "kind": "interpretation",
+        "signal": null,
+        "text": "For landlords, a reported 20% year-on-year fall in Central London availability and sharply reduced H1 2026 development starts together point to tightening competing supply, which supports pricing on well-specified space.",
+        "topic_tags": [
+          "supply",
+          "availability"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_7c40319557e47a4028eac940",
+          "ev_d4a6f3dd7b0ca6ca82597068"
+        ],
+        "headline": "Quality and certification concentrate occupier demand",
+        "interpretation_role": "landlord_analysis",
+        "kind": "interpretation",
+        "signal": null,
+        "text": "For landlords, the reported 78% Grade A share of Q1 2026 Central London take-up and the 49% West End / 39% City BREEAM rent premium indicate occupier preference is concentrated in higher-quality, certified stock, so refurbishment and certification of existing assets is the more immediate route to competing for demand than new-build delivery.",
+        "topic_tags": [
+          "ESG",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_40222d1417221f4db3a8a41f"
+        ],
+        "headline": "Watch CWG availability disclosure basis",
+        "interpretation_role": null,
+        "kind": "watchpoint",
+        "signal": null,
+        "text": "Watch whether Canary Wharf Group's next earnings disclosure restates the 20% year-on-year fall in Central London availability with a defined reference period and measurement basis, and whether Docklands supply remains broadly steady.",
+        "topic_tags": [
+          "availability",
+          "news"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_995039a591db859aeb7f016d",
+          "ev_9ae5896f40ba510102acc52c"
+        ],
+        "headline": "Watch Canary Wharf proposal and letting conversion",
+        "interpretation_role": null,
+        "kind": "watchpoint",
+        "signal": null,
+        "text": "Watch whether the JPMorgan 265-metre Canary Wharf tower proposal secures planning approval, and whether the LS Estates defence and AI marketing at the former Credit Suisse support office converts into a signed letting.",
+        "topic_tags": [
+          "news",
+          "demand"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_9eaecb18fdc3bc25aafaca7c"
+        ],
+        "headline": "Watch starts-to-completions pipeline revision",
+        "interpretation_role": null,
+        "kind": "watchpoint",
+        "signal": null,
+        "text": "Watch whether Savills' next Central London release shows H1 2026's 1.5 million sq ft of development starts translating into a lower forward completions profile, and whether its stated completions forecast is revised.",
+        "topic_tags": [
+          "supply"
+        ]
+      },
+      {
+        "chart_ids": [],
+        "evidence_ids": [
+          "ev_d57c15b00b33dea264335b1c",
+          "ev_9ae5896f40ba510102acc52c"
+        ],
+        "headline": "Watch lab-to-office repositioning in Canary Wharf",
+        "interpretation_role": null,
+        "kind": "watchpoint",
+        "signal": null,
+        "text": "Watch whether the 17 Columbus Courtyard refit repositions away from the 60% laboratory allocation given lower-than-expected short-term life-sciences interest, and whether defence and AI occupiers take space in Canary Wharf refurbishments.",
+        "topic_tags": [
+          "refurbishment",
+          "demand"
+        ]
+      }
+    ],
+    "coverage": {
+      "gaps": {
+        "availability": [
+          "Central London availability change is reported only qualitatively by a secondary account of Canary Wharf Group earnings; no reviewed normalized availability series or definition is available."
+        ],
+        "midtown_fringe": [
+          "Midtown itself remains unmeasured; only City Fringe vacancy history is retained, and City Fringe is not Midtown."
+        ],
+        "wider_london": [
+          "Only selected districts (Hammersmith, VNEB) are retained; these samples do not represent all wider London."
+        ]
+      },
+      "scope": "full_market"
+    },
+    "limitations": [
+      "No reviewed source-defined adjacent seven-day totals or seven-day-apart stock snapshots exist in this run, so no week-over-week market indicator is reported; all dated comparisons are quarterly or half-yearly context.",
+      "The current-window availability and Canary Wharf rental and occupancy figures come from attributed secondary reporting of company earnings and executive statements, with no reference period, definition or independent verification; they remain candidate evidence.",
+      "Central London aggregates do not establish whole-London coverage, and UK or Great Britain macro and hybrid data are contextual rather than London office measurements.",
+      "Savills prime and Grade A rents are transaction averages with differing averaging windows (H1 January-June, January-May, Q1) and are not a constant-quality index; levels across windows are not comparable."
+    ],
+    "message": "",
+    "response_type": "answer",
+    "sections": [],
+    "topic_gaps": [
+      "No current-period achieved or asking rent measurement for Canary Wharf, Midtown or wider London; Canary Wharf rent evidence is a company-scope statement of record rates without a figure.",
+      "No reviewed current-period take-up, vacancy or availability measurement for Midtown, Canary Wharf or wider London; latest local measurements are Q4 2025 or earlier.",
+      "No current London-specific hybrid-working or office-attendance measurement; the latest reviewed hybrid figure is Great Britain-wide and covers January to March 2025."
+    ]
+  },
+  "coverage": {
+    "scope": "full_market",
+    "entries": [
+      {
+        "requirement_id": "prime_rents",
+        "basis": "measurement",
+        "claim_indexes": [
+          14
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "grade_a_rents",
+        "basis": "measurement",
+        "claim_indexes": [
+          15
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "vacancy",
+        "basis": "measurement",
+        "claim_indexes": [
+          11,
+          12,
+          19,
+          20
+        ],
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "gaps": []
+      },
+      {
+        "requirement_id": "availability",
+        "basis": "qualitative",
+        "claim_indexes": [
+          0,
+          8,
+          28
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Central London availability change is reported only qualitatively by a secondary account of Canary Wharf Group earnings; no reviewed normalized availability series or definition is available.",
+          "Candidate evidence awaits monitoring validation; category eligibility is not semantic or measurement verification."
+        ]
+      },
+      {
+        "requirement_id": "leasing",
+        "basis": "measurement",
+        "claim_indexes": [
+          9,
+          10,
+          18
+        ],
+        "chart_ids": [
+          "chart_ca7b93ce63148f4435c69174"
+        ],
+        "gaps": []
+      },
+      {
+        "requirement_id": "new_development",
+        "basis": "qualitative",
+        "claim_indexes": [
+          16,
+          28
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "refurbishment",
+        "basis": "qualitative",
+        "claim_indexes": [
+          4,
+          5,
+          16,
+          28
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Candidate evidence awaits monitoring validation; category eligibility is not semantic or measurement verification."
+        ]
+      },
+      {
+        "requirement_id": "prelets",
+        "basis": "qualitative",
+        "claim_indexes": [
+          18
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "rates",
+        "basis": "context",
+        "claim_indexes": [
+          21
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Measurements for United Kingdom are broader context, not London office measurements."
+        ]
+      },
+      {
+        "requirement_id": "economy",
+        "basis": "qualitative",
+        "claim_indexes": [
+          23
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "employment",
+        "basis": "measurement",
+        "claim_indexes": [
+          22
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "flight_to_quality",
+        "basis": "measurement",
+        "claim_indexes": [
+          24,
+          29
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "esg",
+        "basis": "qualitative",
+        "claim_indexes": [
+          25,
+          26,
+          29
+        ],
+        "chart_ids": [],
+        "gaps": []
+      },
+      {
+        "requirement_id": "hybrid",
+        "basis": "qualitative",
+        "claim_indexes": [
+          7,
+          27
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Measurements for Great Britain are broader context, not London office measurements.",
+          "Candidate evidence awaits monitoring validation; category eligibility is not semantic or measurement verification."
+        ]
+      },
+      {
+        "requirement_id": "news",
+        "basis": "qualitative",
+        "claim_indexes": [
+          1,
+          2,
+          5,
+          26
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Candidate evidence awaits monitoring validation; category eligibility is not semantic or measurement verification."
+        ]
+      },
+      {
+        "requirement_id": "city",
+        "basis": "measurement",
+        "claim_indexes": [
+          11,
+          14,
+          15
+        ],
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "gaps": []
+      },
+      {
+        "requirement_id": "west_end",
+        "basis": "measurement",
+        "claim_indexes": [
+          14,
+          15
+        ],
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "gaps": []
+      },
+      {
+        "requirement_id": "canary_wharf",
+        "basis": "qualitative",
+        "claim_indexes": [
+          1,
+          2,
+          3,
+          4,
+          7,
+          26
+        ],
+        "chart_ids": [],
+        "gaps": [
+          "Candidate evidence awaits monitoring validation; category eligibility is not semantic or measurement verification.",
+          "Local qualitative events do not establish area-wide market measurements."
+        ]
+      },
+      {
+        "requirement_id": "midtown_fringe",
+        "basis": "measurement",
+        "claim_indexes": [
+          19
+        ],
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "gaps": [
+          "Midtown itself remains unmeasured; only City Fringe vacancy history is retained, and City Fringe is not Midtown.",
+          "City Fringe evidence does not establish Midtown measurements."
+        ]
+      },
+      {
+        "requirement_id": "wider_london",
+        "basis": "measurement",
+        "claim_indexes": [
+          5,
+          20
+        ],
+        "chart_ids": [
+          "chart_db705b3d120f6ff3f01cbc3f"
+        ],
+        "gaps": [
+          "Only selected districts (Hammersmith, VNEB) are retained; these samples do not represent all wider London.",
+          "Selected wider London districts do not represent the whole area."
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "ev_06f66bd7d9438ec433f5c60f",
+      "document_id": "doc_f74cee24cb88d33f1002c518",
+      "mode": "live",
+      "excerpt": "More than a quarter of workers in Great Britain (28%) were hybrid workers between 8 January and 30 March 2025.",
+      "event_date": null,
+      "published_at": "2025-06-11",
+      "retrieved_at": "2026-10-10T02:28:58.144423Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whohasaccesstohybridworkingreatbritain/2025-06-11",
+      "native_geography": "Great Britain",
+      "mapped_geography": "Unmapped",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-hybrid-work-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Opinions and Lifestyle Survey working adults reporting home and workplace working in the previous seven days; Great Britain, not London-specific. Source date qualification. Survey working adults are not office-only workers and cannot establish London office attendance or occupier floor-area requirements. Visible release date is 11 June 2025; HTML datePublished metadata reports 10 June. The contract retains the visible official release date and this discrepancy. Historical January-March 2025 observation remains stale context, not a 2026 change. Retained text is truncated; the reviewed survey phrase precedes truncation."
+    },
+    {
+      "id": "ev_24ae6b5c78f32c71197c418d",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "Central London take-up totalled 2.63 million sq ft in Q4, with 188 transactions completed.",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "take-up",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Office space leased during the reference period, as reported by Savills."
+    },
+    {
+      "id": "ev_2aec5a858eada28399665c30",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "“Just look at our experience in the last 18 months,” he says. “Roughly 60% of the office occupiers are growing their footprint, 20% are roughly the same, and only 20% are shrinking their footprint.”",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T17:05:17.689223Z",
+      "first_ingested_at": "2026-10-10T17:05:37.564845Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_3427a0eabe22547062c1bded",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "City Fringe vacancy rate, which stood at 8.2%",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "City Fringe",
+      "mapped_geography": "Midtown and Fringe",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_34922d178c7852b42ffaea3c",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "Both the City and West End recorded a decline in supply over the quarter, with vacancy rates reaching 7.0% and 7.9%, respectively.",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_36ba0129a80324efa373abe4",
+      "document_id": "doc_26e0db9cb42e4bf22f64cb70",
+      "mode": "live",
+      "excerpt": "In London offices, development activity is not keeping pace with occupier demand for the type of space now required, a dynamic driven partly by viability pressures and partly by the same macroeconomic caution weighing on investors.",
+      "event_date": null,
+      "published_at": "2026-10-07",
+      "retrieved_at": "2026-10-10T12:59:07.824590Z",
+      "first_ingested_at": "2026-10-10T12:59:07.825547Z",
+      "source_url": "https://www.knightfrank.co.uk/research/podcast-pages/2026/10/the-case-for-real-estate-in-a-changed-market",
+      "native_geography": "London offices",
+      "mapped_geography": "Whole London",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Knight Frank primary_research_commentary source knight-frank-london-commentary-october-2026 v1; qualitative evidence, not a normalized series. Source qualifications. Attributed Knight Frank commentary by William Matthews, in an episode with Shabab Qadar, Head of London Offices Research. Interpretation, not a quantified observed London-office indicator. No measurement reference period or independently established causal explanation."
+    },
+    {
+      "id": "ev_3cbd21d0bf112aefc6523a09",
+      "document_id": "doc_634c742fc8c48459276e552f",
+      "mode": "live",
+      "excerpt": "Grade B stock continues to dominate overall availability, accounting for 73% of total supply across Central London",
+      "event_date": null,
+      "published_at": "2026-05-18",
+      "retrieved_at": "2026-10-10T02:28:53.684886Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.realestate.bnpparibas.co.uk/insights/central-london-office-market-update-q1-2026",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "availability",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "BNP Paribas Real Estate reviewed HTML contract bnp-central-london-q1-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. BNP Paribas Real Estate Grade B share of Central London office supply at Q1 end; not vacancy or take-up share."
+    },
+    {
+      "id": "ev_40222d1417221f4db3a8a41f",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "Appetite for top office space remains strong across the capital, while CWG’s latest earnings showed that availability in Central London fell 20% year on year as supply in Docklands stayed broadly steady. The shortage of supply elsewhere in London will get worse next year, Khan says, blaming it on UK regulations that have driven up construction costs, deterring new development.",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T17:05:17.689223Z",
+      "first_ingested_at": "2026-10-10T17:05:25.838428Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "availability",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_450dd1238dbc13fbf45c9681",
+      "document_id": "doc_b6ec4f26903cc64f6ce78de5",
+      "mode": "live",
+      "excerpt": "Leasing activity slowed in Q3, with take-up reaching 1.9 million sq ft across 167 transactions.",
+      "event_date": null,
+      "published_at": "2025-10-27",
+      "retrieved_at": "2026-10-10T02:28:35.374340Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/381989-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "take-up",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q3-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Office space leased during the reference period, as reported by Savills."
+    },
+    {
+      "id": "ev_47d052c2a5c0b1dba7e83cdb",
+      "document_id": "doc_5bb6957b5d9cd949e0520bd1",
+      "mode": "live",
+      "excerpt": "average achieved City prime rent for the year to date stands at £135 per sq ft",
+      "event_date": null,
+      "published_at": "2026-06-30",
+      "retrieved_at": "2026-10-10T02:29:22.215030Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/392507-0",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "category": "prime_rent",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-june-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported average prime rent from leasing transactions; not asking rent or a constant-quality index. Source qualifications. January-May cumulative average; not monthly or quarterly increments."
+    },
+    {
+      "id": "ev_4e714ef04cf09333ecf8c430",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "Fast forward to 2026, and Canary Wharf Group is reporting the highest rental rates in its history. Office occupancy now exceeds 92%, local retailers’ sales are 40% higher than they were in 2019, and visitor numbers, which fell from 54 million a year to just 20 million during the pandemic, are on track to exceed last year’s record of 76 million.",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T15:55:21.640553Z",
+      "first_ingested_at": "2026-10-10T15:55:28.078910Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "news",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_58dbc317cdf81e3083024e49",
+      "document_id": "doc_4b9893cfea4cb46f2376da7a",
+      "mode": "live",
+      "excerpt": "London Fire Brigade is set to return to its historic headquarters on Albert Embankment after receiving planning permission for plans at the site from Lambeth Council. This will see its historic site refurbished to provide a fire station, office space and community spaces.",
+      "event_date": null,
+      "published_at": "2026-10-06",
+      "retrieved_at": "2026-10-10T12:59:09.980240Z",
+      "first_ingested_at": "2026-10-10T12:59:09.982261Z",
+      "source_url": "https://www.london-fire.gov.uk/news/2026-news/october/london-fire-brigade-set-for-return-to-its-historic-hq-in-lambeth/",
+      "native_geography": "Lambeth",
+      "mapped_geography": "Wider London",
+      "category": "news",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed London Fire Brigade primary_news source london-fire-lambeth-hq-october-2026 v1; qualitative evidence, not a normalized series. Source qualifications. Fact of the announced planning permission and future plan to return. The permission decision date is not established; publication is not the event date. Not a completed letting, occupation, refurbishment, new construction or market-wide supply change; no area is stated."
+    },
+    {
+      "id": "ev_6a39c03dea8ba05c89ac50c1",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "West End Fringe sub-markets such as Hammersmith and VNEB, where Q4 vacancy stood at 26% and 18%, respectively.",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "Hammersmith",
+      "mapped_geography": "Wider London",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_6aebe2c2306bb7666ba1c728",
+      "document_id": "doc_ccc3074f244cbae3244ec95f",
+      "mode": "live",
+      "excerpt": "London 73.9 -0.4 6.8 0.1 20.5 0.2",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:45:16.949616Z",
+      "first_ingested_at": "2026-10-10T16:45:16.952094Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "employment",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-regional-labour-september-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date."
+    },
+    {
+      "id": "ev_791d0bb412f7b74dd5d75466",
+      "document_id": "doc_2e9497a1d886b8acc88059c4",
+      "mode": "live",
+      "excerpt": "Building: Fully electric, targeting net-zero-in-operation Workplace amenities: Modern working areas, in-house cafe options, commuter facilities, rooftop gardens and terraces",
+      "event_date": null,
+      "published_at": "2026-08-20",
+      "retrieved_at": "2026-10-10T02:28:33.731398Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.db.com/news/detail/20260819-deutsche-bank-to-take-space-at-yy-london-canary-wharf-from-early-2028?language_id=1",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Deutsche Bank primary_news source deutsche-bank-canary-wharf-2026 v3; qualitative evidence, not a normalized series. Source qualifications. Source describes target sustainability performance and amenities, not independently verified net-zero achievement or quantified rental premium."
+    },
+    {
+      "id": "ev_795711ec3b4352466813d172",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "Both the City and West End recorded a decline in supply over the quarter, with vacancy rates reaching 7.0% and 7.9%, respectively.",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_79c8f2bf9659334eac83e5d3",
+      "document_id": "doc_2e9497a1d886b8acc88059c4",
+      "mode": "live",
+      "excerpt": "Deutsche Bank to take space at YY London, Canary Wharf, from early 2028",
+      "event_date": null,
+      "published_at": "2026-08-20",
+      "retrieved_at": "2026-10-10T02:28:33.731398Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.db.com/news/detail/20260819-deutsche-bank-to-take-space-at-yy-london-canary-wharf-from-early-2028?language_id=1",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "news",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Deutsche Bank primary_news source deutsche-bank-canary-wharf-2026 v3; qualitative evidence, not a normalized series. Source qualifications. Fact of the occupier's announced future plan; the headline does not establish observed occupation in 2026."
+    },
+    {
+      "id": "ev_79d1689bc47f6fe281da51db",
+      "document_id": "doc_024944c1100061207f38f769",
+      "mode": "live",
+      "excerpt": "This equates to a vacancy rate of 7.4%",
+      "event_date": null,
+      "published_at": "2026-05-01",
+      "retrieved_at": "2026-10-10T02:28:19.591197Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/390337-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q1-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_7c40319557e47a4028eac940",
+      "document_id": "doc_34792bfeff1548771099b902",
+      "mode": "live",
+      "excerpt": "Grade A space accounting for 78.0% of all take-up during Q1 2026",
+      "event_date": null,
+      "published_at": "2026-05-18",
+      "retrieved_at": "2026-10-10T12:59:33.865390Z",
+      "first_ingested_at": "2026-10-10T12:59:33.868657Z",
+      "source_url": "https://www.realestate.bnpparibas.co.uk/insights/central-london-office-market-update-q1-2026",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "BNP Paribas Real Estate reviewed HTML contract bnp-central-london-q1-2026 v3; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. BNP Paribas Real Estate Grade A share of Q1 2026 Central London take-up by area; not a share of stock."
+    },
+    {
+      "id": "ev_7e0c85711b552d9514f8c601",
+      "document_id": "doc_b6ec4f26903cc64f6ce78de5",
+      "mode": "live",
+      "excerpt": "City Fringe vacancy rate, which currently stands at 8.3%",
+      "event_date": null,
+      "published_at": "2025-10-27",
+      "retrieved_at": "2026-10-10T02:28:35.374340Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/381989-0",
+      "native_geography": "City Fringe",
+      "mapped_geography": "Midtown and Fringe",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q3-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_8442a218cd998936e0f72796",
+      "document_id": "doc_634c742fc8c48459276e552f",
+      "mode": "live",
+      "excerpt": "Grade A space accounting for 78.0% of all take-up during Q1 2026",
+      "event_date": null,
+      "published_at": "2026-05-18",
+      "retrieved_at": "2026-10-10T02:28:53.684886Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.realestate.bnpparibas.co.uk/insights/central-london-office-market-update-q1-2026",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "BNP Paribas Real Estate reviewed HTML contract bnp-central-london-q1-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. BNP Paribas Real Estate Grade A share of Q1 2026 Central London take-up by area; not a share of stock."
+    },
+    {
+      "id": "ev_8518d4b48c28b91c55b2355c",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "As a result, the vacancy rate declined by 20 bps to 7.2%",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_8a3a5825e1936625cd198ff8",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "City average Grade A rent reaching £76.21 per sq ft, up 7% on H1 2025",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "category": "grade_a_rent",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported average Grade A rent from leasing transactions; not asking rent or a constant-quality index. Source qualifications. H1 January-June average; not comparable with a quarterly or January-May average."
+    },
+    {
+      "id": "ev_8ae808a5722e3b12e889611e",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "Office occupancy now exceeds 92%, local retailers’ sales are 40% higher than they were in 2019, and visitor numbers, which fell from 54 million a year to just 20 million during the pandemic, are on track to exceed last year’s record of 76 million.",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T16:46:43.611425Z",
+      "first_ingested_at": "2026-10-10T16:47:00.625820Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "news",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_8c61432f7e708478bde481fe",
+      "document_id": "doc_024944c1100061207f38f769",
+      "mode": "live",
+      "excerpt": "The largest pre-let (and transaction) to complete was global law firm Herbert Smith Freehills Kramer’s acquisition of British Land and GIC’s 1 Appold Street, EC2 (268,000 sq ft), at £104 per sq ft, for a term of 21 years.",
+      "event_date": null,
+      "published_at": "2026-05-01",
+      "retrieved_at": "2026-10-10T02:28:19.591197Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/390337-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "take-up",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Savills primary_research source savills-central-london-q1-2026 v2; qualitative evidence, not a normalized series."
+    },
+    {
+      "id": "ev_9053a8872107aa28795a6455",
+      "document_id": "doc_8a910768dddc4b84853b132b",
+      "mode": "live",
+      "excerpt": "At its meeting ending on 16 September 2026, the Monetary Policy Committee (MPC) voted by a majority of 6–3 to maintain Bank Rate at 3.75%.",
+      "event_date": null,
+      "published_at": "2026-09-17",
+      "retrieved_at": "2026-10-10T02:28:57.020071Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "native_geography": "United Kingdom",
+      "mapped_geography": "Unmapped",
+      "category": "macro",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Bank of England reviewed HTML contract boe-september-2026 v3; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Bank of England MPC policy Bank Rate at the dated decision; UK-wide policy rate, not London office financing cost."
+    },
+    {
+      "id": "ev_995039a591db859aeb7f016d",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "Visa recently leased 300,000 square feet of office space, Barclays just bought its headquarters for £750 million, and Citi is investing more than $1 billion in its European HQ. Capping them all is JPMorgan’s proposal to erect a £3 billion, 265-meter tower that will be London’s largest office building if its plans are approved.",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T16:46:43.611425Z",
+      "first_ingested_at": "2026-10-10T16:47:00.627370Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "news",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_9ae5896f40ba510102acc52c",
+      "document_id": "doc_8ae75576a8c74c66187f14db",
+      "mode": "live",
+      "excerpt": "In Canary Wharf — once dominated by banks — developer LS Estates told Reuters it was sounding ​out defence and AI companies to occupy a refurbished nine-floor office once home to Credit Suisse support staff in response to changing demand.",
+      "event_date": null,
+      "published_at": "2026-10-05",
+      "retrieved_at": "2026-10-10T16:47:17.642500Z",
+      "first_ingested_at": "2026-10-10T16:47:23.654358Z",
+      "source_url": "https://cyprus-mail.com/2026/10/05/tech-driven-defence-boom-sparks-demand-for-uk-offices-and-research-labs",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_9eac9e5e138886c912a5490b",
+      "document_id": "doc_024944c1100061207f38f769",
+      "mode": "live",
+      "excerpt": "Supply across Central London remained stable over the quarter at 19.1m sq ft",
+      "event_date": null,
+      "published_at": "2026-05-01",
+      "retrieved_at": "2026-10-10T02:28:19.591197Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/390337-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "availability",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q1-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office supply at reference-period end; not a vacancy rate. Source qualifications. Source-reported supply has no precise equivalence to marketed availability established by this contract."
+    },
+    {
+      "id": "ev_9eaecb18fdc3bc25aafaca7c",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "However, development starts fell sharply in H1 2026, with just 1.5 million sq ft commencing, as persistent construction cost inflation, labour and MEP constraints, increasing compliance requirements, and wider geopolitical uncertainty continue to weigh on scheme viability. Only one new-build scheme broke ground during the period, Delta at Paddington (234,000 sq ft), which is being delivered by TfL and Helical. The remaining 14 starts were refurbishments.",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "pipeline",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Savills primary_research source savills-central-london-q2-2026 v4; qualitative evidence, not a normalized series."
+    },
+    {
+      "id": "ev_a3ee0221b7c9d70e1c385e84",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "West End, the average Grade A rent stood at £106.17 per sq ft at the end of H1",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "category": "grade_a_rent",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported average Grade A rent from leasing transactions; not asking rent or a constant-quality index. Source qualifications. H1 January-June average; not comparable with a quarterly or January-May average."
+    },
+    {
+      "id": "ev_a8df6a7b68dfd89b809f2b5d",
+      "document_id": "doc_416412b00677b91eeb1608ee",
+      "mode": "live",
+      "excerpt": "London 73.9 -0.4 6.8 0.1 20.5 0.2",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:33:49.958883Z",
+      "first_ingested_at": "2026-10-10T16:33:49.961555Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "employment",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-regional-labour-september-2026 v3; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source date qualification. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date."
+    },
+    {
+      "id": "ev_b0ed77551ac698c8584db80c",
+      "document_id": "doc_69a5575aaa0b58269f57863b",
+      "mode": "live",
+      "excerpt": "Staff are still pushing back against their employers’ efforts to get them back to their desks for three, four, or five days a week, and Canary Wharf’s tenants have differing policies on how often they expect people in their offices. But they increasingly share one view, Khan says: “You’ve got to have the best space to compete for that talent.”",
+      "event_date": null,
+      "published_at": "2026-10-09",
+      "retrieved_at": "2026-10-10T17:05:17.689223Z",
+      "first_ingested_at": "2026-10-10T17:05:37.566762Z",
+      "source_url": "https://www.semafor.com/article/10/09/2026/the-ceo-who-put-canary-wharf-back-on-the-map",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "hybrid",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_b14d903ddf16593631d59452",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "Supply across Central London fell to 18.7 million sq ft during the quarter, down 0.5 million sq ft on Q1 2026.",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "availability",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office supply at reference-period end; not a vacancy rate. Source qualifications. Source-reported supply has no precise equivalence to marketed availability established by this contract. Reported supply totals 19.1m and 18.7m imply a 0.4m change, while Q2 narrative says 0.5m; retain rounded source totals and flag the discrepancy."
+    },
+    {
+      "id": "ev_b749ec4680e599ea936fc3d4",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "West End average prime rent at £175.10 per sq ft was up 2.3% on H1 2025",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "category": "prime_rent",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported average prime rent from leasing transactions; not asking rent or a constant-quality index. Source qualifications. H1 January-June average; not comparable with a quarterly or January-May average."
+    },
+    {
+      "id": "ev_c59cf89eb5463c5b11d3eca2",
+      "document_id": "doc_60c8adba2c2189b57a323a9b",
+      "mode": "live",
+      "excerpt": "The most recent ONS data release showed London’s real GVA grew by only 0.3% in 2023 (compared to 0.4% for the UK as a whole).",
+      "event_date": null,
+      "published_at": null,
+      "retrieved_at": "2026-10-10T16:33:51.645175Z",
+      "first_ingested_at": "2026-10-10T16:33:51.647134Z",
+      "source_url": "https://apps.london.gov.uk/state-of-london/report/economy",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "macro",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Greater London Authority official_analysis source gla-london-economy v3; qualitative evidence, not a normalized series. Source qualifications. GLA reports an observed 2023 ONS release; this is not a new primary ONS release or current growth measurement."
+    },
+    {
+      "id": "ev_d2b19d536cbb1045114dd164",
+      "document_id": "doc_024944c1100061207f38f769",
+      "mode": "live",
+      "excerpt": "Leasing across Central London reached 2.2m sq ft across 152 transactions at the end of Q1.",
+      "event_date": null,
+      "published_at": "2026-05-01",
+      "retrieved_at": "2026-10-10T02:28:19.591197Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/390337-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "take-up",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q1-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Office space leased during the reference period, as reported by Savills."
+    },
+    {
+      "id": "ev_d4a6f3dd7b0ca6ca82597068",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "Our rental analysis indicates buildings with a BREEAM certification of 'Excellent' or 'Outstanding' continue to command a premium. In H1, average rents in these buildings were 49% higher than in non-rated buildings in the West End, and 39% higher in the City.",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "occupier_demand",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Savills primary_research source savills-central-london-q2-2026 v4; qualitative evidence, not a normalized series."
+    },
+    {
+      "id": "ev_d57c15b00b33dea264335b1c",
+      "document_id": "doc_8ae75576a8c74c66187f14db",
+      "mode": "live",
+      "excerpt": "The £100 million-plus ($130 million-plus) refit of 17 Columbus Courtyard — backed by Singapore’s sovereign wealth fund GIC and Oaktree — was originally targeted at life sciences firms with up to 60 per cent of the space ​earmarked for laboratories, but Swetman said ​interest from that sector had been ⁠lower than expected in the short term.",
+      "event_date": null,
+      "published_at": "2026-10-05",
+      "retrieved_at": "2026-10-10T16:47:17.642500Z",
+      "first_ingested_at": "2026-10-10T16:47:23.653129Z",
+      "source_url": "https://cyprus-mail.com/2026/10/05/tech-driven-defence-boom-sparks-demand-for-uk-offices-and-research-labs",
+      "native_geography": "Canary Wharf",
+      "mapped_geography": "Canary Wharf",
+      "category": "refurbishment",
+      "statement_kind": null,
+      "validation_status": "candidate",
+      "validation_reason": null
+    },
+    {
+      "id": "ev_dd1b6291aebb8d9cf1df29d0",
+      "document_id": "doc_34792bfeff1548771099b902",
+      "mode": "live",
+      "excerpt": "Grade B stock continues to dominate overall availability, accounting for 73% of total supply across Central London",
+      "event_date": null,
+      "published_at": "2026-05-18",
+      "retrieved_at": "2026-10-10T12:59:33.865390Z",
+      "first_ingested_at": "2026-10-10T12:59:33.868669Z",
+      "source_url": "https://www.realestate.bnpparibas.co.uk/insights/central-london-office-market-update-q1-2026",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "availability",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "BNP Paribas Real Estate reviewed HTML contract bnp-central-london-q1-2026 v3; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. BNP Paribas Real Estate Grade B share of Central London office supply at Q1 end; not vacancy or take-up share."
+    },
+    {
+      "id": "ev_e2fa5e512f4d4045b74728ad",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "The City vacancy rate remained unchanged at 7.0%",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_f02840f263ab24f6f1e19864",
+      "document_id": "doc_99669bcb5a0a73ee1acdadff",
+      "mode": "live",
+      "excerpt": "West End Fringe sub-markets such as Hammersmith and VNEB, where Q4 vacancy stood at 26% and 18%, respectively.",
+      "event_date": null,
+      "published_at": "2026-01-30",
+      "retrieved_at": "2026-10-10T02:28:49.084278Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/386949-0",
+      "native_geography": "VNEB",
+      "mapped_geography": "Wider London",
+      "category": "vacancy",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q4-2025 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Savills reported office vacancy rate at reference-period end; not availability."
+    },
+    {
+      "id": "ev_fe4444d5a0f4ba3b18b53f16",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "Overall, based on our analysis of the development pipeline (with a view on schemes with a realistic prospect of delivery), development completions are expected to reach 22 million sq ft by the end of 2029, with 148 schemes scheduled for completion over this period. However, 28% of this future supply has yet to commence construction and therefore remains vulnerable to further delays or potential withdrawal as viability pressures persist.",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "pipeline",
+      "statement_kind": "forecast",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Savills primary_research source savills-central-london-q2-2026 v4; qualitative evidence, not a normalized series. Source qualifications. Projected completions are qualitative source forecasts, not current availability."
+    },
+    {
+      "id": "ev_ff4b04604b3a2a359861a413",
+      "document_id": "doc_63cff1242b8e61b999b96216",
+      "mode": "live",
+      "excerpt": "London 73.9 -0.4 6.8 0.1 20.5 0.2",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T14:18:08.979932Z",
+      "first_ingested_at": "2026-10-10T14:18:08.981973Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "employment",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-regional-labour-september-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source date qualification. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date."
+    },
+    {
+      "id": "ev_ffaf77ab8dba5b41acc22bd3",
+      "document_id": "doc_5bbceb5d59014f2a4a098cc1",
+      "mode": "live",
+      "excerpt": "Central London continued to witness robust levels of occupational demand in Q2, with take-up reaching 2.4 million sq ft across 192 transactions.",
+      "event_date": null,
+      "published_at": "2026-08-06",
+      "retrieved_at": "2026-10-10T02:29:11.745695Z",
+      "first_ingested_at": null,
+      "source_url": "https://www.savills.com/research_articles/255800/393427-0",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "category": "take-up",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Savills reviewed HTML contract savills-central-london-q2-2026 v4; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. Office space leased during the reference period, as reported by Savills."
+    }
+  ],
+  "observations": [
+    {
+      "id": "obs_0478d17d8d87e616d6c2076a",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 26.0,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "Hammersmith",
+      "mapped_geography": "Wider London",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_6a39c03dea8ba05c89ac50c1"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_195fda9222102c6330c68828",
+      "mode": "live",
+      "metric": "take_up",
+      "value": 1.9,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Office space leased during the reference period, as reported by Savills",
+      "category": "take-up",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2025-07-01",
+      "period_end": "2025-09-30",
+      "evidence_ids": [
+        "ev_450dd1238dbc13fbf45c9681"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_205097376ae58566b2ff0927",
+      "mode": "live",
+      "metric": "unemployment_rate",
+      "value": 6.8,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted unemployment rate for economically active London residents aged 16 and over; not office-worker unemployment",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_6aebe2c2306bb7666ba1c728",
+        "ev_a8df6a7b68dfd89b809f2b5d",
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_2558a30d4a626701df20b02b",
+      "mode": "live",
+      "metric": "supply_grade_share",
+      "value": 73.0,
+      "unit": "%",
+      "publisher": "BNP Paribas Real Estate",
+      "definition": "BNP Paribas Real Estate Grade B share of Central London office supply at Q1 end; not vacancy or take-up share",
+      "category": "availability",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "evidence_ids": [
+        "ev_3cbd21d0bf112aefc6523a09",
+        "ev_dd1b6291aebb8d9cf1df29d0"
+      ],
+      "revision_of": null,
+      "dimension": "office_grade",
+      "segment": "Grade B",
+      "partition": null
+    },
+    {
+      "id": "obs_36c17803600b78c304c028e0",
+      "mode": "live",
+      "metric": "bank_rate",
+      "value": 3.75,
+      "unit": "%",
+      "publisher": "Bank of England",
+      "definition": "Bank of England MPC policy Bank Rate at the dated decision; UK-wide policy rate, not London office financing cost",
+      "category": "macro",
+      "native_geography": "United Kingdom",
+      "mapped_geography": "Unmapped",
+      "period_start": "2026-09-16",
+      "period_end": "2026-09-16",
+      "evidence_ids": [
+        "ev_9053a8872107aa28795a6455"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_3abf5a08dab718b2ca14d767",
+      "mode": "live",
+      "metric": "grade_a_rent",
+      "value": 76.21,
+      "unit": "GBP per sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported average Grade A rent from leasing transactions; not asking rent or a constant-quality index",
+      "category": "grade_a_rent",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_8a3a5825e1936625cd198ff8"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_4945f2ea414792a74f397e74",
+      "mode": "live",
+      "metric": "take_up_grade_share",
+      "value": 78.0,
+      "unit": "%",
+      "publisher": "BNP Paribas Real Estate",
+      "definition": "BNP Paribas Real Estate Grade A share of Q1 2026 Central London take-up by area; not a share of stock",
+      "category": "occupier_demand",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "evidence_ids": [
+        "ev_7c40319557e47a4028eac940",
+        "ev_8442a218cd998936e0f72796"
+      ],
+      "revision_of": null,
+      "dimension": "office_grade",
+      "segment": "Grade A",
+      "partition": null
+    },
+    {
+      "id": "obs_4be1a838d370616132644665",
+      "mode": "live",
+      "metric": "grade_a_rent",
+      "value": 106.17,
+      "unit": "GBP per sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported average Grade A rent from leasing transactions; not asking rent or a constant-quality index",
+      "category": "grade_a_rent",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_a3ee0221b7c9d70e1c385e84"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_50bc862ac3ac7d8ac5de5695",
+      "mode": "live",
+      "metric": "reported_supply",
+      "value": 19.1,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported office supply at reference-period end; not a vacancy rate",
+      "category": "availability",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "evidence_ids": [
+        "ev_9eac9e5e138886c912a5490b"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_55f6072107f564977a2020a0",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 8.2,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "City Fringe",
+      "mapped_geography": "Midtown and Fringe",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_3427a0eabe22547062c1bded"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_5cee47155945aa9c0c271c15",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 7.2,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_8518d4b48c28b91c55b2355c"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_72f69ebcb0c8bb1493c70eb2",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 7.9,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_34922d178c7852b42ffaea3c"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_88cb6f54072765a3fd5afc6b",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 8.3,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "City Fringe",
+      "mapped_geography": "Midtown and Fringe",
+      "period_start": "2025-07-01",
+      "period_end": "2025-09-30",
+      "evidence_ids": [
+        "ev_7e0c85711b552d9514f8c601"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_8c3afefc87fa3dbaddbf4302",
+      "mode": "live",
+      "metric": "take_up",
+      "value": 2.4,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Office space leased during the reference period, as reported by Savills",
+      "category": "take-up",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_ffaf77ab8dba5b41acc22bd3"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_99acefb9e0d1cb8792e5a1b0",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 18.0,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "VNEB",
+      "mapped_geography": "Wider London",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_f02840f263ab24f6f1e19864"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_9bc7e213d894472ec5a83d4c",
+      "mode": "live",
+      "metric": "employment_rate",
+      "value": 73.9,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted employment rate for London residents aged 16 to 64; not London workplace or office employment",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_6aebe2c2306bb7666ba1c728",
+        "ev_a8df6a7b68dfd89b809f2b5d",
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_9f4bd06f3086cca48c073197",
+      "mode": "live",
+      "metric": "reported_supply",
+      "value": 18.7,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported office supply at reference-period end; not a vacancy rate",
+      "category": "availability",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_b14d903ddf16593631d59452"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_a2980486b7449f09be4e5b2e",
+      "mode": "live",
+      "metric": "take_up",
+      "value": 2.2,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Office space leased during the reference period, as reported by Savills",
+      "category": "take-up",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "evidence_ids": [
+        "ev_d2b19d536cbb1045114dd164"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_a3f60efcfe2d59532d784759",
+      "mode": "live",
+      "metric": "hybrid_work_share",
+      "value": 28.0,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Opinions and Lifestyle Survey working adults reporting home and workplace working in the previous seven days; Great Britain, not London-specific",
+      "category": "occupier_demand",
+      "native_geography": "Great Britain",
+      "mapped_geography": "Unmapped",
+      "period_start": "2025-01-08",
+      "period_end": "2025-03-30",
+      "evidence_ids": [
+        "ev_06f66bd7d9438ec433f5c60f"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_b686fc5bc4a3fd7bfce16d43",
+      "mode": "live",
+      "metric": "inactivity_rate",
+      "value": 20.5,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_6aebe2c2306bb7666ba1c728",
+        "ev_a8df6a7b68dfd89b809f2b5d",
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_b965476b612db6a02957e571",
+      "mode": "live",
+      "metric": "prime_rent",
+      "value": 175.1,
+      "unit": "GBP per sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported average prime rent from leasing transactions; not asking rent or a constant-quality index",
+      "category": "prime_rent",
+      "native_geography": "West End",
+      "mapped_geography": "West End",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_b749ec4680e599ea936fc3d4"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_c9b78f21ff55582549dd1530",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 7.0,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "evidence_ids": [
+        "ev_e2fa5e512f4d4045b74728ad"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_d59537d8e104f5754a85d1a1",
+      "mode": "live",
+      "metric": "take_up",
+      "value": 2.63,
+      "unit": "million sq ft",
+      "publisher": "Savills",
+      "definition": "Office space leased during the reference period, as reported by Savills",
+      "category": "take-up",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_24ae6b5c78f32c71197c418d"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_e1f0a976625f049181048de4",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 7.0,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "period_start": "2025-10-01",
+      "period_end": "2025-12-31",
+      "evidence_ids": [
+        "ev_795711ec3b4352466813d172"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_e86b10106a123dbb5d5c1a2a",
+      "mode": "live",
+      "metric": "vacancy_rate",
+      "value": 7.4,
+      "unit": "%",
+      "publisher": "Savills",
+      "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+      "category": "vacancy",
+      "native_geography": "Central London",
+      "mapped_geography": "Central London",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "evidence_ids": [
+        "ev_79d1689bc47f6fe281da51db"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_f7a34a48150cb343152542e7",
+      "mode": "live",
+      "metric": "prime_rent",
+      "value": 135.0,
+      "unit": "GBP per sq ft",
+      "publisher": "Savills",
+      "definition": "Savills reported average prime rent from leasing transactions; not asking rent or a constant-quality index",
+      "category": "prime_rent",
+      "native_geography": "City",
+      "mapped_geography": "City",
+      "period_start": "2026-01-01",
+      "period_end": "2026-05-31",
+      "evidence_ids": [
+        "ev_47d052c2a5c0b1dba7e83cdb"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    }
+  ],
+  "charts": {
+    "chart_ca7b93ce63148f4435c69174": {
+      "chart_type": "total",
+      "title": "Savills Central London quarterly take-up, Q3 2025 to Q2 2026",
+      "purpose": "Show the reported Central London take-up flow series across four quarters on a single compatible definition.",
+      "unit": "million sq ft",
+      "x_label": "Reference period",
+      "y_label": "Value",
+      "points": [
+        {
+          "label": "Central London · 2025-07-01 to 2025-09-30",
+          "value": 1.9,
+          "observation_id": "obs_195fda9222102c6330c68828",
+          "evidence_ids": [
+            "ev_450dd1238dbc13fbf45c9681"
+          ],
+          "period_start": "2025-07-01",
+          "period_end": "2025-09-30",
+          "geography": "Central London",
+          "metric": "take_up",
+          "unit": "million sq ft",
+          "publisher": "Savills",
+          "definition": "Office space leased during the reference period, as reported by Savills",
+          "category": "take-up",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "Central London"
+        },
+        {
+          "label": "Central London · 2025-10-01 to 2025-12-31",
+          "value": 2.63,
+          "observation_id": "obs_d59537d8e104f5754a85d1a1",
+          "evidence_ids": [
+            "ev_24ae6b5c78f32c71197c418d"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "Central London",
+          "metric": "take_up",
+          "unit": "million sq ft",
+          "publisher": "Savills",
+          "definition": "Office space leased during the reference period, as reported by Savills",
+          "category": "take-up",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "Central London"
+        },
+        {
+          "label": "Central London · 2026-01-01 to 2026-03-31",
+          "value": 2.2,
+          "observation_id": "obs_a2980486b7449f09be4e5b2e",
+          "evidence_ids": [
+            "ev_d2b19d536cbb1045114dd164"
+          ],
+          "period_start": "2026-01-01",
+          "period_end": "2026-03-31",
+          "geography": "Central London",
+          "metric": "take_up",
+          "unit": "million sq ft",
+          "publisher": "Savills",
+          "definition": "Office space leased during the reference period, as reported by Savills",
+          "category": "take-up",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "Central London"
+        },
+        {
+          "label": "Central London · 2026-04-01 to 2026-06-30",
+          "value": 2.4,
+          "observation_id": "obs_8c3afefc87fa3dbaddbf4302",
+          "evidence_ids": [
+            "ev_ffaf77ab8dba5b41acc22bd3"
+          ],
+          "period_start": "2026-04-01",
+          "period_end": "2026-06-30",
+          "geography": "Central London",
+          "metric": "take_up",
+          "unit": "million sq ft",
+          "publisher": "Savills",
+          "definition": "Office space leased during the reference period, as reported by Savills",
+          "category": "take-up",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "Central London"
+        }
+      ],
+      "observation_ids": [
+        "obs_195fda9222102c6330c68828",
+        "obs_d59537d8e104f5754a85d1a1",
+        "obs_a2980486b7449f09be4e5b2e",
+        "obs_8c3afefc87fa3dbaddbf4302"
+      ],
+      "source_refs": [
+        "ev_24ae6b5c78f32c71197c418d",
+        "ev_450dd1238dbc13fbf45c9681",
+        "ev_d2b19d536cbb1045114dd164",
+        "ev_ffaf77ab8dba5b41acc22bd3"
+      ],
+      "caveats": [
+        "Bars retain source-reported values; any displayed-period flow sum is calculated separately and does not measure net stock change."
+      ],
+      "pairs": [],
+      "denominator": null,
+      "x_unit": "",
+      "y_unit": "million sq ft"
+    },
+    "chart_db705b3d120f6ff3f01cbc3f": {
+      "chart_type": "bar",
+      "title": "Savills reported office vacancy rate by native local area, Q4 2025",
+      "purpose": "Compare Savills reported vacancy rates across native local areas (Hammersmith, City Fringe, West End, VNEB, City) for the same reviewed Q4 2025 measurement and period.",
+      "unit": "%",
+      "x_label": "Reference period",
+      "y_label": "Value",
+      "points": [
+        {
+          "label": "Hammersmith (Wider London) · 2025-10-01 to 2025-12-31",
+          "value": 26.0,
+          "observation_id": "obs_0478d17d8d87e616d6c2076a",
+          "evidence_ids": [
+            "ev_6a39c03dea8ba05c89ac50c1"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "Wider London",
+          "metric": "vacancy_rate",
+          "unit": "%",
+          "publisher": "Savills",
+          "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+          "category": "vacancy",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "Hammersmith"
+        },
+        {
+          "label": "City Fringe (Midtown and Fringe) · 2025-10-01 to 2025-12-31",
+          "value": 8.2,
+          "observation_id": "obs_55f6072107f564977a2020a0",
+          "evidence_ids": [
+            "ev_3427a0eabe22547062c1bded"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "Midtown and Fringe",
+          "metric": "vacancy_rate",
+          "unit": "%",
+          "publisher": "Savills",
+          "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+          "category": "vacancy",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "City Fringe"
+        },
+        {
+          "label": "West End · 2025-10-01 to 2025-12-31",
+          "value": 7.9,
+          "observation_id": "obs_72f69ebcb0c8bb1493c70eb2",
+          "evidence_ids": [
+            "ev_34922d178c7852b42ffaea3c"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "West End",
+          "metric": "vacancy_rate",
+          "unit": "%",
+          "publisher": "Savills",
+          "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+          "category": "vacancy",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "West End"
+        },
+        {
+          "label": "VNEB (Wider London) · 2025-10-01 to 2025-12-31",
+          "value": 18.0,
+          "observation_id": "obs_99acefb9e0d1cb8792e5a1b0",
+          "evidence_ids": [
+            "ev_f02840f263ab24f6f1e19864"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "Wider London",
+          "metric": "vacancy_rate",
+          "unit": "%",
+          "publisher": "Savills",
+          "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+          "category": "vacancy",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "VNEB"
+        },
+        {
+          "label": "City · 2025-10-01 to 2025-12-31",
+          "value": 7.0,
+          "observation_id": "obs_e1f0a976625f049181048de4",
+          "evidence_ids": [
+            "ev_795711ec3b4352466813d172"
+          ],
+          "period_start": "2025-10-01",
+          "period_end": "2025-12-31",
+          "geography": "City",
+          "metric": "vacancy_rate",
+          "unit": "%",
+          "publisher": "Savills",
+          "definition": "Savills reported office vacancy rate at reference-period end; not availability",
+          "category": "vacancy",
+          "dimension": null,
+          "segment": null,
+          "native_geography": "City"
+        }
+      ],
+      "observation_ids": [
+        "obs_0478d17d8d87e616d6c2076a",
+        "obs_55f6072107f564977a2020a0",
+        "obs_72f69ebcb0c8bb1493c70eb2",
+        "obs_99acefb9e0d1cb8792e5a1b0",
+        "obs_e1f0a976625f049181048de4"
+      ],
+      "source_refs": [
+        "ev_3427a0eabe22547062c1bded",
+        "ev_34922d178c7852b42ffaea3c",
+        "ev_6a39c03dea8ba05c89ac50c1",
+        "ev_795711ec3b4352466813d172",
+        "ev_f02840f263ab24f6f1e19864"
+      ],
+      "caveats": [],
+      "pairs": [],
+      "denominator": null,
+      "x_unit": "",
+      "y_unit": "%"
+    }
+  },
+  "comparisons": [
+    {
+      "arguments": {
+        "observation_ids": [
+          "obs_5cee47155945aa9c0c271c15",
+          "obs_e86b10106a123dbb5d5c1a2a"
+        ],
+        "comparison": "trend"
+      },
+      "output": {
+        "compatible": true,
+        "reason": "Compatible definitions, units, publisher, geography and reference periods",
+        "absolute_change": -0.2,
+        "unit": "percentage points",
+        "relative_growth_percent": -2.7027027,
+        "baseline_period_start": "2026-01-01",
+        "baseline_period_end": "2026-03-31",
+        "endpoint_period_start": "2026-04-01",
+        "endpoint_period_end": "2026-06-30",
+        "from_observation_id": "obs_e86b10106a123dbb5d5c1a2a",
+        "to_observation_id": "obs_5cee47155945aa9c0c271c15",
+        "evidence_ids": [
+          "ev_79d1689bc47f6fe281da51db",
+          "ev_8518d4b48c28b91c55b2355c"
+        ],
+        "week_over_week": false,
+        "weekly_basis": null
+      }
+    },
+    {
+      "arguments": {
+        "observation_ids": [
+          "obs_8c3afefc87fa3dbaddbf4302",
+          "obs_a2980486b7449f09be4e5b2e"
+        ],
+        "comparison": "trend"
+      },
+      "output": {
+        "compatible": true,
+        "reason": "Compatible definitions, units, publisher, geography and reference periods",
+        "absolute_change": 0.2,
+        "unit": "million sq ft",
+        "relative_growth_percent": 9.09090909,
+        "baseline_period_start": "2026-01-01",
+        "baseline_period_end": "2026-03-31",
+        "endpoint_period_start": "2026-04-01",
+        "endpoint_period_end": "2026-06-30",
+        "from_observation_id": "obs_a2980486b7449f09be4e5b2e",
+        "to_observation_id": "obs_8c3afefc87fa3dbaddbf4302",
+        "evidence_ids": [
+          "ev_d2b19d536cbb1045114dd164",
+          "ev_ffaf77ab8dba5b41acc22bd3"
+        ],
+        "week_over_week": false,
+        "weekly_basis": null
+      }
+    },
+    {
+      "arguments": {
+        "observation_ids": [
+          "obs_9f4bd06f3086cca48c073197",
+          "obs_50bc862ac3ac7d8ac5de5695"
+        ],
+        "comparison": "trend"
+      },
+      "output": {
+        "compatible": true,
+        "reason": "Compatible definitions, units, publisher, geography and reference periods",
+        "absolute_change": -0.4,
+        "unit": "million sq ft",
+        "relative_growth_percent": -2.09424084,
+        "baseline_period_start": "2026-01-01",
+        "baseline_period_end": "2026-03-31",
+        "endpoint_period_start": "2026-04-01",
+        "endpoint_period_end": "2026-06-30",
+        "from_observation_id": "obs_50bc862ac3ac7d8ac5de5695",
+        "to_observation_id": "obs_9f4bd06f3086cca48c073197",
+        "evidence_ids": [
+          "ev_9eac9e5e138886c912a5490b",
+          "ev_b14d903ddf16593631d59452"
+        ],
+        "week_over_week": false,
+        "weekly_basis": null
+      }
+    },
+    {
+      "arguments": {
+        "observation_ids": [
+          "obs_3abf5a08dab718b2ca14d767",
+          "obs_4be1a838d370616132644665"
+        ],
+        "comparison": "submarkets"
+      },
+      "output": {
+        "compatible": true,
+        "reason": "Compatible definitions, units, publisher, geography and reference periods",
+        "absolute_change": 29.96,
+        "unit": "GBP per sq ft",
+        "relative_growth_percent": 39.31242619,
+        "baseline_period_start": "2026-01-01",
+        "baseline_period_end": "2026-06-30",
+        "endpoint_period_start": "2026-01-01",
+        "endpoint_period_end": "2026-06-30",
+        "from_observation_id": "obs_3abf5a08dab718b2ca14d767",
+        "to_observation_id": "obs_4be1a838d370616132644665",
+        "evidence_ids": [
+          "ev_8a3a5825e1936625cd198ff8",
+          "ev_a3ee0221b7c9d70e1c385e84"
+        ],
+        "week_over_week": false,
+        "weekly_basis": null
+      }
+    }
+  ]
+}

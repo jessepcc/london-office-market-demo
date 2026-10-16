@@ -1,0 +1,169 @@
+{
+  "draft_id": "draft_94f25894dfeee61a3b5fb4c4",
+  "drop_claim_indexes": [
+    7,
+    10,
+    13,
+    15,
+    22,
+    25,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42
+  ],
+  "replacements": [
+    {
+      "index": 6,
+      "claim": {
+        "kind": "interpretation",
+        "text": "Knight Frank commentary published 7 October 2026 argues London office development activity is not keeping pace with occupier demand for the type of space now required, citing viability pressures and macroeconomic caution. Attributed view, not a measured indicator.",
+        "headline": "Knight Frank: development lagging occupier demand",
+        "evidence_ids": [
+          "ev_36ba0129a80324efa373abe4"
+        ],
+        "topic_tags": [
+          "supply",
+          "demand"
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "claim": {
+        "kind": "fact",
+        "text": "Morgan McKinley's London Employment Monitor reports professional job vacancies in London fell to 4,368 during the third quarter of 2026, down 6% from the previous quarter and 11% year-on-year.",
+        "headline": "London professional vacancies fall in Q3 2026",
+        "evidence_ids": [
+          "ev_dfad298baf6bb6288abd0811"
+        ],
+        "topic_tags": [
+          "employment"
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "claim": {
+        "kind": "fact",
+        "text": "The same monitor reports monthly London professional vacancies falling from 1,719 in July to 1,449 in August and 1,200 in September, a 30% decline across the quarter.",
+        "headline": "Monthly London vacancies fall through Q3",
+        "evidence_ids": [
+          "ev_77c70c0ed63bd270b9cc5511"
+        ],
+        "topic_tags": [
+          "employment"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "claim": {
+        "kind": "watchpoint",
+        "text": "Watch whether London professional vacancy counts stabilise after the autumn Budget, which the monitor says could delay discretionary hiring; a further September-style fall would weaken occupier expansion assumptions.",
+        "headline": "Follow-up: post-Budget hiring caution",
+        "evidence_ids": [
+          "ev_77c70c0ed63bd270b9cc5511"
+        ],
+        "topic_tags": [
+          "employment"
+        ]
+      }
+    },
+    {
+      "index": 33,
+      "claim": {
+        "kind": "fact",
+        "text": "ONS reported a London resident employment rate of 73.9% and inactivity rate of 20.5% for ages 16 to 64, and unemployment of 6.8% for economically active residents aged 16 and over, for May-July 2026.",
+        "headline": "London resident employment 73.9%, unemployment 6.8%",
+        "evidence_ids": [
+          "ev_a8df6a7b68dfd89b809f2b5d",
+          "ev_ff4b04604b3a2a359861a413",
+          "ev_15b4d0330e322c056f54e8dd"
+        ],
+        "topic_tags": [
+          "employment"
+        ]
+      }
+    },
+    {
+      "index": 35,
+      "claim": {
+        "kind": "fact",
+        "text": "The Bank of England reported UK CPI inflation increased to 3.1% in August, and on 16 September 2026 the MPC voted 6-3 to maintain Bank Rate at 3.75%.",
+        "headline": "UK CPI 3.1%; Bank Rate held at 3.75%",
+        "evidence_ids": [
+          "ev_5dd47fdcc7044c7adf96123a",
+          "ev_9053a8872107aa28795a6455"
+        ],
+        "topic_tags": [
+          "macro",
+          "regulations"
+        ]
+      }
+    },
+    {
+      "index": 37,
+      "claim": {
+        "kind": "fact",
+        "text": "GLA analysis cites the most recent ONS release showing London real GVA grew 0.3% in 2023 against 0.4% for the UK; GLA Economics estimates real GVA rose 1.1% in 2024 and 1.9% in 2025.",
+        "headline": "GLA: London GVA 0.3% in 2023, estimates for 2024-25",
+        "evidence_ids": [
+          "ev_c59cf89eb5463c5b11d3eca2",
+          "ev_58384cb75fb8090a0483ba8d"
+        ],
+        "topic_tags": [
+          "macro"
+        ]
+      }
+    },
+    {
+      "index": 38,
+      "claim": {
+        "kind": "interpretation",
+        "text": "The 2023 GVA figure is an observed ONS release cited by the GLA, while the 2024 and 2025 figures are GLA estimates rather than official outturn; GLA commentary attributes recent involuntary worklessness to weaker labour demand.",
+        "headline": "GLA estimates are separate from observed ONS history",
+        "evidence_ids": [
+          "ev_c59cf89eb5463c5b11d3eca2",
+          "ev_0d289035d51524007acbc0d9"
+        ],
+        "topic_tags": [
+          "macro",
+          "employment"
+        ]
+      }
+    },
+    {
+      "index": 40,
+      "claim": {
+        "kind": "interpretation",
+        "text": "The hybrid figure is Great Britain-wide, covers survey working adults rather than office-only workers, and its January-March 2025 window is stale context that cannot establish current London office attendance or floor-area requirements.",
+        "headline": "Hybrid data is GB-wide and dated",
+        "evidence_ids": [
+          "ev_06f66bd7d9438ec433f5c60f"
+        ],
+        "topic_tags": [
+          "hybrid-work"
+        ]
+      }
+    }
+  ],
+  "coverage": {
+    "scope": "full_market",
+    "gaps": {
+      "availability": [
+        "No reviewed availability measurement was retrieved; reported vacancy and pipeline are distinct from marketed availability."
+      ],
+      "midtown_fringe": [
+        "Only City Fringe vacancy history is retained; Midtown itself remains unmeasured and City Fringe is not Midtown."
+      ],
+      "wider_london": [
+        "Only selected districts (Hammersmith, VNEB, Stratford, Lambeth) are covered; these samples do not represent all wider London."
+      ]
+    }
+  }
+}

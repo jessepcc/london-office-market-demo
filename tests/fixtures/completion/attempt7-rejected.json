@@ -1,0 +1,602 @@
+{
+  "coverage": {
+    "scope": "full_market",
+    "gaps": {
+      "availability": [
+        "No reviewed availability-rate measurement was retrieved for any London area; only vacancy rates are available, and availability is a distinct definition."
+      ],
+      "midtown_fringe": [
+        "Only City Fringe vacancy history is retained (Q3-Q4 2025); Midtown itself remains unmeasured and no current-period Fringe evidence was found."
+      ],
+      "wider_london": [
+        "Only selected districts (Hammersmith, VNEB, Stratford) are covered; these samples do not represent all wider London."
+      ]
+    }
+  },
+  "chart_ids": [
+    "chart_7a5bd48fff76e5d7eba987bd"
+  ],
+  "claims": [
+    {
+      "kind": "fact",
+      "text": "Semafor (published 9 Oct 2026) reports Canary Wharf Group's office occupancy now exceeds 92%, with local retailer sales 40% above 2019 and visitor numbers on track to beat last year's 76 million record.",
+      "evidence_ids": [
+        "ev_4e714ef04cf09333ecf8c430",
+        "ev_8ae808a5722e3b12e889611e"
+      ],
+      "topic_tags": [
+        "news",
+        "demand"
+      ],
+      "headline": "Canary Wharf occupancy reported above 92%"
+    },
+    {
+      "kind": "fact",
+      "text": "Semafor reports Visa recently leased 300,000 sq ft, Barclays bought its headquarters for \u00a3750m, Citi is investing over $1bn in its European HQ, and JPMorgan proposes a \u00a33bn 265m tower subject to approval.",
+      "evidence_ids": [
+        "ev_f1f65b39e25459fe384f2e70",
+        "ev_995039a591db859aeb7f016d"
+      ],
+      "topic_tags": [
+        "news",
+        "demand"
+      ],
+      "headline": "Canary Wharf tenant commitments reported"
+    },
+    {
+      "kind": "interpretation",
+      "text": "These Canary Wharf items are attributed secondary reporting of occupier commitments and a proposed scheme; they evidence announced demand and planned status, not completed occupation or consented construction.",
+      "evidence_ids": [
+        "ev_f1f65b39e25459fe384f2e70",
+        "ev_995039a591db859aeb7f016d"
+      ],
+      "topic_tags": [
+        "news",
+        "demand"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Reuters-sourced reporting (5 Oct 2026) says developer LS Estates is sounding out defence and AI companies for a refurbished nine-floor Canary Wharf office formerly used by Credit Suisse support staff.",
+      "evidence_ids": [
+        "ev_f5a9716065bc850c0d667d1b",
+        "ev_9ae5896f40ba510102acc52c"
+      ],
+      "topic_tags": [
+        "demand",
+        "refurbishment"
+      ],
+      "headline": "Canary Wharf refurbishment marketed to defence and AI occupiers"
+    },
+    {
+      "kind": "fact",
+      "text": "The same report states the \u00a3100m-plus refit of 17 Columbus Courtyard, backed by GIC and Oaktree, had earmarked up to 60% of space for laboratories but life-sciences interest was lower than expected in the short term.",
+      "evidence_ids": [
+        "ev_ba97e285c283baa5dae184f4",
+        "ev_d57c15b00b33dea264335b1c"
+      ],
+      "topic_tags": [
+        "refurbishment",
+        "demand"
+      ],
+      "headline": "Life-sciences interest below expectation at 17 Columbus Courtyard"
+    },
+    {
+      "kind": "watchpoint",
+      "text": "Watch whether the 17 Columbus Courtyard refit secures defence, AI or alternative occupiers, and whether the JPMorgan tower proposal advances through planning; both would test Canary Wharf's demand mix.",
+      "evidence_ids": [
+        "ev_ba97e285c283baa5dae184f4",
+        "ev_995039a591db859aeb7f016d"
+      ],
+      "topic_tags": [
+        "demand",
+        "news"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Knight Frank commentary (published 7 Oct 2026) states London office development activity is not keeping pace with occupier demand for the type of space now required, citing viability pressures and macroeconomic caution.",
+      "evidence_ids": [
+        "ev_36ba0129a80324efa373abe4"
+      ],
+      "topic_tags": [
+        "supply",
+        "demand"
+      ],
+      "headline": "Knight Frank: development lagging occupier demand"
+    },
+    {
+      "kind": "interpretation",
+      "text": "Knight Frank's view is attributed commentary without a measurement period; it supports a qualitative supply-constraint narrative rather than a quantified London-office indicator.",
+      "evidence_ids": [
+        "ev_36ba0129a80324efa373abe4"
+      ],
+      "topic_tags": [
+        "supply"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "London Fire Brigade received Lambeth Council planning permission to refurbish its historic Albert Embankment headquarters to provide a fire station, office space and community spaces (published 6 Oct 2026).",
+      "evidence_ids": [
+        "ev_58dbc317cdf81e3083024e49"
+      ],
+      "topic_tags": [
+        "news",
+        "refurbishment"
+      ],
+      "headline": "Lambeth permission for Albert Embankment refurbishment"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The Albert Embankment permission evidences an announced refurbishment plan, not completed works, occupation or a market-wide supply change; the decision date is not established.",
+      "evidence_ids": [
+        "ev_58dbc317cdf81e3083024e49"
+      ],
+      "topic_tags": [
+        "refurbishment",
+        "news"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Central London Q2 2026 take-up of 2.4 million sq ft across 192 transactions, up 0.2 million sq ft (9.1%) on Q1 2026's 2.2 million sq ft.",
+      "evidence_ids": [
+        "ev_ffaf77ab8dba5b41acc22bd3"
+      ],
+      "topic_tags": [
+        "demand"
+      ],
+      "headline": "Central London Q2 take-up 2.4m sq ft"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Central London vacancy fell 0.2 percentage points to 7.2% at end-Q2 2026 from 7.4% at end-Q1 2026; the City rate was unchanged at 7.0%.",
+      "evidence_ids": [
+        "ev_8518d4b48c28b91c55b2355c",
+        "ev_e2fa5e512f4d4045b74728ad"
+      ],
+      "topic_tags": [
+        "vacancy"
+      ],
+      "headline": "Central London vacancy 7.2% at end-Q2 2026"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Central London office supply of 18.7 million sq ft at end-Q2 2026, down 0.4 million sq ft (2.1%) from 19.1 million sq ft at end-Q1 2026.",
+      "evidence_ids": [
+        "ev_b14d903ddf16593631d59452",
+        "ev_9eac9e5e138886c912a5490b"
+      ],
+      "topic_tags": [
+        "supply",
+        "availability"
+      ],
+      "headline": "Reported Central London supply 18.7m sq ft"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported H1 2026 Central London Grade A rents of \u00a376.21 per sq ft in the City (up 7% on H1 2025) and \u00a3106.17 per sq ft in the West End, from leasing transactions rather than asking rents.",
+      "evidence_ids": [
+        "ev_8a3a5825e1936625cd198ff8",
+        "ev_a3ee0221b7c9d70e1c385e84"
+      ],
+      "topic_tags": [
+        "rents"
+      ],
+      "headline": "H1 2026 Grade A rents: City \u00a376.21, West End \u00a3106.17"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported H1 2026 West End average prime rent of \u00a3175.10 per sq ft, up 2.3% on H1 2025, and a City prime rent of \u00a3116.73 per sq ft, up 19% year-on-year.",
+      "evidence_ids": [
+        "ev_b749ec4680e599ea936fc3d4",
+        "ev_0af04eb95f22f3daddf44359"
+      ],
+      "topic_tags": [
+        "rents"
+      ],
+      "headline": "H1 2026 prime rents: West End \u00a3175.10, City \u00a3116.73"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported a January-May 2026 average achieved City prime rent of \u00a3135 per sq ft and a January-May City Grade A rent of \u00a379.65 per sq ft, up 13% on the same period in 2025.",
+      "evidence_ids": [
+        "ev_47d052c2a5c0b1dba7e83cdb",
+        "ev_83e747448e17a393b2bf9e23"
+      ],
+      "topic_tags": [
+        "rents"
+      ],
+      "headline": "City January-May prime \u00a3135, Grade A \u00a379.65"
+    },
+    {
+      "kind": "interpretation",
+      "text": "City and West End rent figures use different averaging windows (H1, January-May, quarterly) and transaction averages; they cannot be combined into a single rent trend or read as asking-rent movement.",
+      "evidence_ids": [
+        "ev_8a3a5825e1936625cd198ff8",
+        "ev_47d052c2a5c0b1dba7e83cdb",
+        "ev_0af04eb95f22f3daddf44359"
+      ],
+      "topic_tags": [
+        "rents"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported H1 2026 development starts of just 1.5 million sq ft, with only one new-build scheme (Delta at Paddington, 234,000 sq ft) and 14 refurbishment starts.",
+      "evidence_ids": [
+        "ev_9eaecb18fdc3bc25aafaca7c"
+      ],
+      "topic_tags": [
+        "supply",
+        "refurbishment"
+      ],
+      "headline": "H1 2026 starts 1.5m sq ft, one new-build"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Q2 2026 Central London development completions of 1.4 million sq ft across 11 new developments and major refurbishments, matching Q1 2026's 1.4 million sq ft.",
+      "evidence_ids": [
+        "ev_3fd3cf61b476eeef511eb494"
+      ],
+      "topic_tags": [
+        "supply",
+        "refurbishment"
+      ],
+      "headline": "Q2 2026 completions 1.4m sq ft"
+    },
+    {
+      "kind": "forecast",
+      "text": "Savills forecasts Central London development completions reaching 22 million sq ft by end-2029 across 148 schemes, with 28% of that future supply not yet started and vulnerable to delay or withdrawal.",
+      "evidence_ids": [
+        "ev_fe4444d5a0f4ba3b18b53f16"
+      ],
+      "topic_tags": [
+        "supply"
+      ],
+      "headline": "Savills forecasts 22m sq ft completions by 2029"
+    },
+    {
+      "kind": "interpretation",
+      "text": "Unlet future construction can compete for occupiers even though it is not currently available space; the 28% unstarted share is a delivery-risk qualification, not present supply.",
+      "evidence_ids": [
+        "ev_fe4444d5a0f4ba3b18b53f16"
+      ],
+      "topic_tags": [
+        "supply"
+      ]
+    },
+    {
+      "kind": "watchpoint",
+      "text": "Watch whether H2 2026 development starts recover from the H1 1.5 million sq ft level and whether unstarted pipeline schemes secure funding; both would change the timing of competing supply.",
+      "evidence_ids": [
+        "ev_9eaecb18fdc3bc25aafaca7c",
+        "ev_fe4444d5a0f4ba3b18b53f16"
+      ],
+      "topic_tags": [
+        "supply"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported the largest Q1 2026 pre-let: Herbert Smith Freehills Kramer's acquisition of British Land and GIC's 1 Appold Street, EC2 (268,000 sq ft) at \u00a3104 per sq ft for 21 years.",
+      "evidence_ids": [
+        "ev_8c61432f7e708478bde481fe"
+      ],
+      "topic_tags": [
+        "prelets",
+        "demand"
+      ],
+      "headline": "1 Appold Street pre-let 268,000 sq ft at \u00a3104"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Central London take-up of 600,830 sq ft in May 2026 across 56 transactions, published 30 June 2026 and covering May activity only.",
+      "evidence_ids": [
+        "ev_367c798e1a4465c688cc38b9"
+      ],
+      "topic_tags": [
+        "demand"
+      ],
+      "headline": "May 2026 take-up 600,830 sq ft"
+    },
+    {
+      "kind": "fact",
+      "text": "BNP Paribas Real Estate reported Grade A space accounted for 78.0% of Central London take-up in Q1 2026, a share of take-up rather than of stock.",
+      "evidence_ids": [
+        "ev_7c40319557e47a4028eac940"
+      ],
+      "topic_tags": [
+        "demand"
+      ],
+      "headline": "Grade A 78% of Q1 2026 take-up"
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported H1 2026 average rents in BREEAM 'Excellent' or 'Outstanding' buildings were 49% higher than non-rated buildings in the West End and 39% higher in the City.",
+      "evidence_ids": [
+        "ev_d4a6f3dd7b0ca6ca82597068"
+      ],
+      "topic_tags": [
+        "ESG",
+        "rents"
+      ],
+      "headline": "BREEAM-rated buildings show rent premium"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The BREEAM premium is a static H1 2026 comparison of average rents; it does not establish a widening gap, a causal amenity effect or pricing power for landlords.",
+      "evidence_ids": [
+        "ev_d4a6f3dd7b0ca6ca82597068"
+      ],
+      "topic_tags": [
+        "ESG"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Deutsche Bank announced it will take space at YY London, Canary Wharf, from early 2028, in a fully electric building targeting net-zero-in-operation with rooftop gardens and commuter facilities.",
+      "evidence_ids": [
+        "ev_79c8f2bf9659334eac83e5d3",
+        "ev_791d0bb412f7b74dd5d75466",
+        "ev_a4617bd8c5579a982028fa78"
+      ],
+      "topic_tags": [
+        "ESG",
+        "news"
+      ],
+      "headline": "Deutsche Bank plans YY London occupation from 2028"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The Deutsche Bank item is an announced future occupation plan with a target sustainability performance, not observed occupation or independently verified net-zero achievement.",
+      "evidence_ids": [
+        "ev_79c8f2bf9659334eac83e5d3",
+        "ev_791d0bb412f7b74dd5d75466"
+      ],
+      "topic_tags": [
+        "ESG",
+        "news"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "ONS reported London residents' employment rate of 73.9%, unemployment rate of 6.8% and inactivity rate of 20.5% for the May-July 2026 three-month period (published 15 September 2026).",
+      "evidence_ids": [
+        "ev_6aebe2c2306bb7666ba1c728"
+      ],
+      "topic_tags": [
+        "employment"
+      ],
+      "headline": "London May-July 2026: employment 73.9%, unemployment 6.8%"
+    },
+    {
+      "kind": "interpretation",
+      "text": "These ONS rates are residence-based Labour Force Survey estimates for London residents, not London workplace jobs, office workers or occupier floor-space demand, and are three-month levels rather than weekly changes.",
+      "evidence_ids": [
+        "ev_8c187da1348e6e8b3510fad4",
+        "ev_0d3c6aad9c909f41f97a702f"
+      ],
+      "topic_tags": [
+        "employment"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Morgan McKinley's London Employment Monitor reported professional job vacancies in London fell to 4,368 in Q3 2026, down 6% quarter-on-quarter and 11% year-on-year, with monthly vacancies down 30% across the quarter.",
+      "evidence_ids": [
+        "ev_dfad298baf6bb6288abd0811",
+        "ev_77c70c0ed63bd270b9cc5511"
+      ],
+      "topic_tags": [
+        "employment"
+      ],
+      "headline": "London professional vacancies down 11% year-on-year"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The Morgan McKinley figures are professional recruitment vacancies, a labour-demand indicator distinct from office vacancy or take-up, and remain candidate evidence pending monitoring review.",
+      "evidence_ids": [
+        "ev_dfad298baf6bb6288abd0811"
+      ],
+      "topic_tags": [
+        "employment"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "The Bank of England MPC voted 6-3 on 16 September 2026 to maintain Bank Rate at 3.75%, with three members preferring a 0.25 percentage point increase to 4%.",
+      "evidence_ids": [
+        "ev_9053a8872107aa28795a6455",
+        "ev_1a43c945bae29a0c2a14673c"
+      ],
+      "topic_tags": [
+        "macro"
+      ],
+      "headline": "Bank Rate held at 3.75% on 16 September 2026"
+    },
+    {
+      "kind": "fact",
+      "text": "The Bank of England reported UK CPI inflation rose to 3.1% in August 2026 and said it is likely to rise further over coming quarters.",
+      "evidence_ids": [
+        "ev_5dd47fdcc7044c7adf96123a",
+        "ev_f344d0bb28d1ebc47ec0eb04"
+      ],
+      "topic_tags": [
+        "macro"
+      ],
+      "headline": "UK CPI 3.1% in August 2026"
+    },
+    {
+      "kind": "forecast",
+      "text": "The Bank of England's stated outlook is that UK CPI inflation is likely to rise further over coming quarters; this is a source forecast, not observed inflation.",
+      "evidence_ids": [
+        "ev_f344d0bb28d1ebc47ec0eb04"
+      ],
+      "topic_tags": [
+        "macro"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "GLA Economics reported London real GVA grew 0.3% in 2023 versus 0.4% for the UK, and estimates real GVA rose 1.1% in 2024 and 1.9% in 2025.",
+      "evidence_ids": [
+        "ev_c59cf89eb5463c5b11d3eca2",
+        "ev_58384cb75fb8090a0483ba8d"
+      ],
+      "topic_tags": [
+        "macro"
+      ],
+      "headline": "GLA: London GVA 0.3% in 2023, estimates for 2024-25"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The 2023 figure is an observed ONS release reported by GLA; the 2024 and 2025 figures are GLA estimates, not official outturn, and are London-wide context rather than office-market measurement.",
+      "evidence_ids": [
+        "ev_c59cf89eb5463c5b11d3eca2",
+        "ev_58384cb75fb8090a0483ba8d"
+      ],
+      "topic_tags": [
+        "macro"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "ONS reported 28% of workers in Great Britain were hybrid workers between 8 January and 30 March 2025, a survey of working adults rather than London office attendance.",
+      "evidence_ids": [
+        "ev_06f66bd7d9438ec433f5c60f"
+      ],
+      "topic_tags": [
+        "hybrid-work"
+      ],
+      "headline": "28% of GB workers hybrid in early 2025"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The hybrid-work share is Great Britain-wide and dated to early 2025; it is stale contextual evidence and cannot establish current London office attendance or floor-area requirements.",
+      "evidence_ids": [
+        "ev_06f66bd7d9438ec433f5c60f"
+      ],
+      "topic_tags": [
+        "hybrid-work"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "Savills reported Q4 2025 vacancy rates of 26% in Hammersmith and 18% in VNEB, versus 7.0% in the City, 7.9% in the West End and 8.2% in City Fringe.",
+      "evidence_ids": [
+        "ev_6a39c03dea8ba05c89ac50c1",
+        "ev_f02840f263ab24f6f1e19864",
+        "ev_3427a0eabe22547062c1bded"
+      ],
+      "topic_tags": [
+        "vacancy"
+      ],
+      "headline": "Q4 2025 vacancy: Hammersmith 26%, VNEB 18%",
+      "chart_ids": [
+        "chart_7a5bd48fff76e5d7eba987bd"
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": "The Q4 2025 district comparison is historical context from selected districts; Hammersmith and VNEB are samples and do not represent all wider London, and City Fringe is not Midtown.",
+      "evidence_ids": [
+        "ev_6a39c03dea8ba05c89ac50c1",
+        "ev_f02840f263ab24f6f1e19864",
+        "ev_3427a0eabe22547062c1bded"
+      ],
+      "topic_tags": [
+        "vacancy"
+      ]
+    },
+    {
+      "kind": "fact",
+      "text": "City AM, citing CoStar, reported Hammersmith, the outer edge of London's East End and Hounslow among the worst-performing areas for office space in the capital (published 9 April 2026).",
+      "evidence_ids": [
+        "ev_de627fc312c825dbb6681caf"
+      ],
+      "topic_tags": [
+        "news",
+        "vacancy"
+      ],
+      "headline": "CoStar-cited report flags weak outer-district office performance"
+    },
+    {
+      "kind": "fact",
+      "text": "Lendlease reported the Turing Building at Stratford Cross provides 350,000 sq ft of Grade A office space, the first building delivered under its joint venture with CPP Investments.",
+      "evidence_ids": [
+        "ev_ddffdce48cce4d96639c6d7c"
+      ],
+      "topic_tags": [
+        "supply"
+      ],
+      "headline": "Turing Building Stratford 350,000 sq ft Grade A"
+    },
+    {
+      "kind": "fact",
+      "text": "Lendlease reported plans submitted to Newham for Stratford Cross's final phase, proposing about 2,000 homes, a public park, retail space and improved walking and cycling routes (published 20 August 2026).",
+      "evidence_ids": [
+        "ev_0e1fe15b2443d46ca2f5c598"
+      ],
+      "topic_tags": [
+        "news",
+        "supply"
+      ],
+      "headline": "Stratford Cross final phase plans submitted"
+    },
+    {
+      "kind": "interpretation",
+      "text": "The Stratford Cross submission is a residential-led proposal, not consented development or completed office supply, though it signals competing land use around an established commercial district.",
+      "evidence_ids": [
+        "ev_0e1fe15b2443d46ca2f5c598"
+      ],
+      "topic_tags": [
+        "supply",
+        "news"
+      ]
+    },
+    {
+      "kind": "watchpoint",
+      "text": "Watch whether the Stratford Cross final phase is consented and whether the Turing Building's unlet area is disclosed; both would affect competing wider-London supply.",
+      "evidence_ids": [
+        "ev_0e1fe15b2443d46ca2f5c598",
+        "ev_ddffdce48cce4d96639c6d7c"
+      ],
+      "topic_tags": [
+        "supply"
+      ]
+    },
+    {
+      "kind": "interpretation",
+      "text": "For landlords, the combination of constrained H1 2026 starts, falling reported supply and a 78% Grade A take-up share suggests quality-space competition may persist, but this is a market-level reading, not asset-specific pricing power.",
+      "evidence_ids": [
+        "ev_9eaecb18fdc3bc25aafaca7c",
+        "ev_b14d903ddf16593631d59452",
+        "ev_7c40319557e47a4028eac940"
+      ],
+      "topic_tags": [
+        "supply",
+        "demand"
+      ]
+    },
+    {
+      "kind": "watchpoint",
+      "text": "Watch Q3 2026 Central London take-up, vacancy and supply releases and any new availability-rate series; no weekly London office indicator exists, so week-over-week movement cannot be established from current evidence.",
+      "evidence_ids": [
+        "ev_8518d4b48c28b91c55b2355c",
+        "ev_ffaf77ab8dba5b41acc22bd3"
+      ],
+      "topic_tags": [
+        "demand",
+        "vacancy"
+      ]
+    }
+  ],
+  "limitations": [
+    "Weekly comparison is not possible: no reviewed source-defined adjacent seven-day London office totals or stock snapshots seven days apart were retrieved, so no week-over-week movement is claimed.",
+    "Several current items (Canary Wharf occupancy and tenant commitments, LS Estates marketing, 17 Columbus Courtyard refit) are candidate secondary reporting pending monitoring validation of definitions and measurements.",
+    "Central London aggregates do not establish whole-London coverage; UK and Great Britain macro and hybrid data are contextual, not London office measurements.",
+    "Rent figures use differing averaging windows and transaction averages, so cross-area or cross-period rent trends cannot be inferred."
+  ]
+}

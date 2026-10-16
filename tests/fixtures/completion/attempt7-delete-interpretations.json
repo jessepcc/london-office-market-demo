@@ -1,0 +1,123 @@
+{
+  "draft_id": "draft_47ac10bc6891996706700011",
+  "drop_claim_indexes": [
+    2,
+    7,
+    9,
+    16,
+    20,
+    26,
+    28,
+    30,
+    32,
+    37,
+    39,
+    41,
+    45,
+    47
+  ],
+  "replacements": [
+    {
+      "index": 6,
+      "claim": {
+        "kind": "interpretation",
+        "text": "Attributed Knight Frank commentary (published 7 Oct 2026) argues London office development is not keeping pace with occupier demand for the type of space now required, citing viability pressures and macroeconomic caution; it carries no measurement period.",
+        "headline": "Knight Frank commentary: development lagging demand",
+        "evidence_ids": [
+          "ev_36ba0129a80324efa373abe4"
+        ],
+        "topic_tags": [
+          "supply",
+          "demand"
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "claim": {
+        "kind": "fact",
+        "text": "Savills reported Central London Q2 2026 take-up of 2.4 million sq ft across 192 transactions, up 0.2 million sq ft (9.1%) on Q1 2026's 2.2 million sq ft.",
+        "headline": "Central London Q2 take-up 2.4m sq ft",
+        "evidence_ids": [
+          "ev_ffaf77ab8dba5b41acc22bd3"
+        ],
+        "topic_tags": [
+          "demand"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "claim": {
+        "kind": "fact",
+        "text": "Savills reported Central London vacancy fell 0.2 percentage points to 7.2% at end-Q2 2026 from 7.4% at end-Q1 2026; the City rate was unchanged at 7.0%.",
+        "headline": "Central London vacancy 7.2% at end-Q2 2026",
+        "evidence_ids": [
+          "ev_8518d4b48c28b91c55b2355c",
+          "ev_e2fa5e512f4d4045b74728ad"
+        ],
+        "topic_tags": [
+          "vacancy"
+        ]
+      }
+    },
+    {
+      "index": 34,
+      "claim": {
+        "kind": "fact",
+        "text": "The Bank of England reported UK CPI inflation increased to 3.1% in August 2026.",
+        "headline": "UK CPI 3.1% in August 2026",
+        "evidence_ids": [
+          "ev_5dd47fdcc7044c7adf96123a"
+        ],
+        "topic_tags": [
+          "macro"
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "claim": {
+        "kind": "fact",
+        "text": "GLA Economics reported London real GVA grew 0.3% in 2023, against 0.4% for the UK, based on the most recent ONS release it cited.",
+        "headline": "GLA: London real GVA 0.3% in 2023",
+        "evidence_ids": [
+          "ev_c59cf89eb5463c5b11d3eca2"
+        ],
+        "topic_tags": [
+          "macro"
+        ]
+      }
+    }
+  ],
+  "limitations": [
+    "No weekly London office indicator exists in the reviewed evidence; all cited market measurements are monthly, quarterly or half-yearly and cannot support week-over-week statements.",
+    "Availability is a distinct measure from vacancy and no reviewed availability series was retrieved, so availability is excluded rather than inferred from vacancy.",
+    "Central London aggregates do not establish whole-London coverage; Midtown itself remains unmeasured and wider-London evidence covers selected districts only.",
+    "Canary Wharf has qualitative evidence only, with no normalized area measurements; scheme-level announcements are not area metrics.",
+    "UK and Great Britain macro, rates and hybrid-work data are contextual and are not London office measurements."
+  ],
+  "coverage": {
+    "scope": "full_market",
+    "gaps": {
+      "availability": [
+        "No reviewed availability-rate series was retrieved; availability is excluded rather than inferred from vacancy."
+      ],
+      "midtown_fringe": [
+        "Retained quantitative history is City Fringe only; Midtown itself remains unmeasured."
+      ],
+      "wider_london": [
+        "Retained evidence covers selected districts (Hammersmith, VNEB, Stratford) and does not represent all wider London."
+      ],
+      "canary_wharf": [
+        "Qualitative evidence only; no normalized Canary Wharf area measurements."
+      ],
+      "hybrid": [
+        "Only Great Britain-wide survey evidence from early 2025; no London-specific current hybrid measurement."
+      ],
+      "rates": [
+        "UK-wide policy rate only; no London office financing-cost measurement."
+      ]
+    }
+  }
+}

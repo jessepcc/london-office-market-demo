@@ -1,0 +1,169 @@
+{
+  "claim": {
+    "kind": "fact",
+    "text": "ONS reported London resident employment rate of 73.9% and inactivity rate of 20.5% for ages 16 to 64, and unemployment of 6.8% for economically active residents aged 16 and over, for May-July 2026.",
+    "evidence_ids": [
+      "ev_a8df6a7b68dfd89b809f2b5d",
+      "ev_ff4b04604b3a2a359861a413",
+      "ev_15b4d0330e322c056f54e8dd"
+    ],
+    "topic_tags": [
+      "employment"
+    ],
+    "headline": "London employment 73.9%, unemployment 6.8%"
+  },
+  "evidence": [
+    {
+      "id": "ev_ff4b04604b3a2a359861a413",
+      "document_id": "doc_63cff1242b8e61b999b96216",
+      "mode": "live",
+      "excerpt": "London 73.9 -0.4 6.8 0.1 20.5 0.2",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T14:18:08.979932Z",
+      "first_ingested_at": "2026-10-10T14:18:08.981973Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "employment",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-regional-labour-september-2026 v2; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source date qualification. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date."
+    },
+    {
+      "id": "ev_a8df6a7b68dfd89b809f2b5d",
+      "document_id": "doc_416412b00677b91eeb1608ee",
+      "mode": "live",
+      "excerpt": "London 73.9 -0.4 6.8 0.1 20.5 0.2",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:33:49.958883Z",
+      "first_ingested_at": "2026-10-10T16:33:49.961555Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "category": "employment",
+      "statement_kind": null,
+      "validation_status": "validated",
+      "validation_reason": "Office for National Statistics reviewed HTML contract ons-regional-labour-september-2026 v3; exact observed phrase, source identity, publication date, reference period, definition and unit checked. Measurement definition. ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source date qualification. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date."
+    },
+    {
+      "id": "ev_15b4d0330e322c056f54e8dd",
+      "document_id": "doc_416412b00677b91eeb1608ee",
+      "mode": "live",
+      "excerpt": "The unemployment rate is not the proportion of the total population who are unemployed. It is the proportion of the economically active population (those in work plus those seeking and available to work) who are unemployed.",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:33:49.958883Z",
+      "first_ingested_at": "2026-10-10T16:33:49.961677Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "United Kingdom",
+      "mapped_geography": "Unmapped",
+      "category": "labour_definitions",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Office for National Statistics official_statistics source ons-regional-labour-september-2026 v3; qualitative evidence, not a normalized series. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source qualifications. Exact population denominator from the source glossary; combine with the separate age header and London row."
+    },
+    {
+      "id": "ev_67f40230649edc0a66beba82",
+      "document_id": "doc_416412b00677b91eeb1608ee",
+      "mode": "live",
+      "excerpt": "Employment rate (%) aged 16 to 64 years [Note 2] Change on February to April 2026 Unemployment rate (%) aged 16 years and over [Note 3] Change on February to April 2026 Inactivity rate (%) aged 16 to 64 years [Note 4] Change on February to April 2026",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:33:49.958883Z",
+      "first_ingested_at": "2026-10-10T16:33:49.961659Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "United Kingdom",
+      "mapped_geography": "Unmapped",
+      "category": "labour_definitions",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Office for National Statistics official_statistics source ons-regional-labour-september-2026 v3; qualitative evidence, not a normalized series. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source qualifications. Exact regional table headers define separate age cohorts; use with the London row, not as an employment-level finding. Unemployment uses the economically active population; employment and inactivity use the corresponding resident population."
+    },
+    {
+      "id": "ev_968ed26cb3d6c36d2b9dd159",
+      "document_id": "doc_416412b00677b91eeb1608ee",
+      "mode": "live",
+      "excerpt": "LFS, APS and Real Time Information (RTI) estimates are based on the region where someone lives, as opposed to the region where they may happen to work, which may be different.",
+      "event_date": null,
+      "published_at": "2026-09-15",
+      "retrieved_at": "2026-10-10T16:33:49.958883Z",
+      "first_ingested_at": "2026-10-10T16:33:49.961692Z",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/september2026",
+      "native_geography": "United Kingdom",
+      "mapped_geography": "Unmapped",
+      "category": "labour_definitions",
+      "statement_kind": "fact",
+      "validation_status": "validated",
+      "validation_reason": "Exact passage from reviewed Office for National Statistics official_statistics source ons-regional-labour-september-2026 v3; qualitative evidence, not a normalized series. Source qualifications. Residence-based London LFS estimates, not London workplace jobs, office workers, office attendance or occupier floor-space demand. May-July three-month levels. Reported quarterly changes in the table are not weekly changes; this contract normalizes levels only. Sampling volatility remains, especially granular estimates; short-term movements may be within sampling variability. The source advises considering longer-term patterns and other indicators. Visible release date is 15 September 2026; metadata reports 14 September UTC. The reviewed contract retains the visible release date. Source qualifications. Residence-based regional definition, not London workplace jobs or office workers; contextual support for the London row."
+    }
+  ],
+  "observations": [
+    {
+      "id": "obs_9bc7e213d894472ec5a83d4c",
+      "mode": "live",
+      "metric": "employment_rate",
+      "value": 73.9,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted employment rate for London residents aged 16 to 64; not London workplace or office employment",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_205097376ae58566b2ff0927",
+      "mode": "live",
+      "metric": "unemployment_rate",
+      "value": 6.8,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted unemployment rate for economically active London residents aged 16 and over; not office-worker unemployment",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    },
+    {
+      "id": "obs_b686fc5bc4a3fd7bfce16d43",
+      "mode": "live",
+      "metric": "inactivity_rate",
+      "value": 20.5,
+      "unit": "%",
+      "publisher": "Office for National Statistics",
+      "definition": "ONS Labour Force Survey seasonally adjusted economic inactivity rate for London residents aged 16 to 64; not office-worker inactivity",
+      "category": "employment",
+      "native_geography": "London",
+      "mapped_geography": "Whole London",
+      "period_start": "2026-05-01",
+      "period_end": "2026-07-31",
+      "evidence_ids": [
+        "ev_ff4b04604b3a2a359861a413"
+      ],
+      "revision_of": null,
+      "dimension": null,
+      "segment": null,
+      "partition": null
+    }
+  ],
+  "age_header_id": "ev_67f40230649edc0a66beba82",
+  "residence_definition_id": "ev_968ed26cb3d6c36d2b9dd159"
+}
