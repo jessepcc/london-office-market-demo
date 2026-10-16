@@ -14,6 +14,12 @@ The app opens in synthetic mode and loads labeled examples without provider requ
 
 Streamlit hosting requires a signed-in account and authorization to read the public GitHub repository. No paid VM, dedicated disk, reserved IP, cron process or background worker is required.
 
+### Loading-screen fallback
+
+The public address is [london-office-market-demo.streamlit.app](https://london-office-market-demo.streamlit.app/). If its loading screen stalls, use the [direct app route](https://london-office-market-demo.streamlit.app/~/+/). This is the iframe destination observed in Streamlit's hosting page, not a documented stable URL contract.
+
+On 16 October 2026, the normal hosting page displayed error 1ST, then stalled on loading in the signed-in browser session. One app reboot did not clear that state. The same canonical address opened the synthetic app in an incognito visitor window without sign-in or a passcode. The direct app route also rendered and completed a synthetic briefing, saved-report navigation and HTML download. The health endpoint returned ok, and no startup exception appeared in the hosting logs. These checks do not establish why the signed-in hosting page stalled. The direct route is a fallback, not a verified platform repair.
+
 ## Local CLI configuration
 
 The browser ignores host environment credentials and database paths. The CLI reads them for local use.

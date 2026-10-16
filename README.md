@@ -14,6 +14,8 @@ Each browser session has its own temporary SQLite database, conversation, report
 
 Everything starts from an explicit user action. There are no scheduled jobs or automatic paid calls. The free hosted app can sleep when idle and may need time to wake.
 
+If the loading screen does not finish, try the [direct app link](https://london-office-market-demo.streamlit.app/~/+/). On 16 October, the normal address opened for an unsigned visitor but stalled in a signed-in browser session. The direct app completed synthetic briefing and download checks. This fallback uses Streamlit's internal app route and may change. See [verification](docs/verification.md) for the observed limits.
+
 ## Run locally
 
 Use Python 3.12 or later.
