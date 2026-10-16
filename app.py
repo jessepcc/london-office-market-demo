@@ -17,7 +17,7 @@ from london_market.runner import Runner
 from london_market.jobs import ManualJobs
 from london_market.store import Store
 from london_market.weekly import saved_claim_source_ids
-from london_market.web_session import SessionData, session_settings
+from london_market.web_session import RESEARCH_MODELS, SessionData, session_settings
 
 VIEWS = ("Weekly reports", "Research", "Controls", "Sources")
 
@@ -546,9 +546,9 @@ def sidebar_settings() -> Settings:
         st.sidebar.text_input("OpenRouter API key", type="password", key="openrouter-key")
         st.sidebar.text_input("Tavily API key", type="password", key="tavily-key")
         with st.sidebar.expander("Model settings"):
-            st.text_input("Research model", value=Settings.model_fields["main_model"].default, key="main-model")
-            st.text_input("Router model", value=Settings.model_fields["router_model"].default, key="router-model")
-        st.sidebar.caption("Each run is limited to 180 seconds, 96 steps and $0.25 of model usage. Search charges may be separate.")
+            st.selectbox("Research model", RESEARCH_MODELS, key="main-model")
+            st.caption("These models have configured usage estimates. The chat router uses Clef Flash. Provider availability may vary.")
+        st.sidebar.caption("Each run allows up to 180 seconds and 96 steps, with a $0.25 accounted usage budget. Estimates may differ from provider billing, and actual charges can exceed the target. Search charges may be separate.")
         st.sidebar.caption("Your keys pass through this demo server to OpenRouter and Tavily. They remain in session memory and are excluded from saved records and downloads. Provider charges apply to your accounts.")
     st.sidebar.button("Clear session", key="clear-session", on_click=clear_session)
     try:
@@ -567,7 +567,8 @@ def main() -> None:
     settings = sidebar_settings()
     st.title("London office market")
     mode = settings.mode
-    selected_view = st.sidebar.radio("View", VIEWS, index=1, key="view", format_func=VIEW_LABELS.__getitem__, on_change=close_run_history)
+    st.session_state.setdefault("view", "Research")
+    selected_view = st.sidebar.radio("View", VIEWS, index=None, key="view", format_func=VIEW_LABELS.__getitem__, on_change=close_run_history)
     with st.sidebar.expander("Run history"):
         st.button("Inspect runs", key="open-run-history", on_click=navigate, args=("Activity",), use_container_width=True)
     view = "Activity" if st.session_state.get("show-run-history", False) else selected_view

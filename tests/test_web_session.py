@@ -3,6 +3,7 @@ from pathlib import Path
 import subprocess
 import sys
 
+import pytest
 from streamlit.testing.v1 import AppTest
 
 from london_market.config import Settings
@@ -86,3 +87,26 @@ def test_cli_rejects_removed_scheduler_and_poll_controls():
         result = subprocess.run([sys.executable, "-m", "london_market", *args], cwd=APP.parent, text=True, capture_output=True)
         assert result.returncode == 2
         assert "invalid choice" in result.stderr or "unrecognized arguments" in result.stderr
+
+
+def test_web_rejects_models_without_supported_billing_and_router_contract():
+    data = SessionData()
+    try:
+        with pytest.raises(ValueError, match="research model"):
+            session_settings(data, mode="live", main_model="unknown/unpriced-model")
+        with pytest.raises(ValueError, match="router"):
+            session_settings(data, mode="live", router_model="unknown/router")
+    finally:
+        data.close()
+
+
+def test_opening_saved_briefing_has_no_widget_state_warning(monkeypatch):
+    from streamlit.elements.lib import policies
+
+    monkeypatch.setattr(policies, "_shown_default_value_warning", False)
+    app = AppTest.from_file(str(APP), default_timeout=15).run()
+    app.radio(key="view").set_value("Controls").run()
+    app.button(key="briefing").click().run()
+    app.button(key="controls-report-fixture").click().run()
+    assert not app.exception
+    assert not any("created with a default value" in warning.value for warning in app.warning)

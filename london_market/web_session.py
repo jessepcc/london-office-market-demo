@@ -12,6 +12,9 @@ from .domain import Limits, Mode
 from .fixtures import load_fixtures
 from .store import Store
 
+RESEARCH_MODELS = ("deepseek/deepseek-v4.1-flash", "google/gemini-3.8-flash")
+ROUTER_MODEL = "cloudflare/clef-flash"
+
 
 class SessionData:
     def __init__(self) -> None:
@@ -31,12 +34,16 @@ class SessionData:
 
 
 def session_settings(data: SessionData, *, mode: Mode, openrouter_key: str = "", tavily_key: str = "", main_model: str | None = None, router_model: str | None = None) -> Settings:
+    if main_model is not None and main_model not in RESEARCH_MODELS:
+        raise ValueError("Choose a supported research model with configured usage estimates")
+    if router_model is not None and router_model != ROUTER_MODEL:
+        raise ValueError("The demo router uses the Clef Flash routing contract")
     return Settings(
         mode=mode,
         database_path=data.database_path,
         openrouter_api_key=SecretStr(openrouter_key.strip()) if openrouter_key.strip() else None,
         tavily_api_key=SecretStr(tavily_key.strip()) if tavily_key.strip() else None,
-        main_model=main_model if main_model is not None else Settings.model_fields["main_model"].default,
-        router_model=router_model if router_model is not None else Settings.model_fields["router_model"].default,
+        main_model=main_model or RESEARCH_MODELS[0],
+        router_model=ROUTER_MODEL,
         limits=Limits(max_steps=96, max_seconds=180, max_tokens=250000, max_spend_usd=0.25),
     )

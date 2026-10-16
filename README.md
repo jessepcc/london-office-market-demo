@@ -8,7 +8,7 @@ A Python research agent for exploring London office market evidence. Ask a quest
 
 The app opens without a passcode. **Synthetic demo** works without credentials or provider calls. It uses labeled example data and scripted model behavior.
 
-For **Live with your keys**, enter your own OpenRouter and Tavily API keys in the sidebar. OpenRouter supplies model access; Tavily supplies fresh web search. You can change the research and routing model identifiers. Both services may charge your account. Free hosting does not make provider usage free.
+For **Live with your keys**, enter your own OpenRouter and Tavily API keys in the sidebar. OpenRouter supplies model access; Tavily supplies fresh web search. Choose DeepSeek V4.1 Flash or Gemini 3.8 Flash for research. The router uses Clef Flash. These choices have configured usage estimates; provider availability may vary. Both services may charge your account. Free hosting does not make provider usage free.
 
 Each browser session has its own temporary SQLite database, conversation, reports and keys. The hosted Python process receives your keys and sends them to the corresponding providers. The app excludes keys from saved records and exports. Use **Clear session** to discard your session data and keys. Session cleanup on disconnect is best effort, and the hosting filesystem is temporary. Download reports you want to keep.
 
